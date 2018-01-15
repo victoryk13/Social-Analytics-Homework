@@ -1,0 +1,547 @@
+,Source Account,Tweet Text,Tweet Date,Compound Score,Positive Score,Neutral Score,Negative Score
+0,BBC Breaking News,A 7.1 magnitude quake off the south-west coast of Peru kills two people https://t.co/oLae31f3Qh,Sun Jan 14 14:35:48 +0000 2018,-0.5423,0.0,0.774,0.226
+1,BBC Breaking News,"Burning oil tanker sinks more than a week after collision with cargo ship off China, with 32 lives lost, reports say https://t.co/yAJoNdweTd",Sun Jan 14 09:31:56 +0000 2018,-0.5859,0.0,0.798,0.202
+2,BBC Breaking News,Hawaiians receive emergency text warning of ballistic missile threat but officials later say it was a mistake https://t.co/zl3UENEu5b,Sat Jan 13 18:42:09 +0000 2018,-0.7783,0.0,0.596,0.404
+3,BBC Breaking News,Donald Trump says he will approve Iran's nuclear deal only one more time before abandoning it if it is not changed https://t.co/BwArj6XWFA,Fri Jan 12 18:30:56 +0000 2018,-0.4336,0.0,0.88,0.12
+4,BBC Breaking News,"Nottingham rail station fire is being treated as arson, police say https://t.co/f2kqYucRa8",Fri Jan 12 17:12:10 +0000 2018,-0.34,0.0,0.821,0.179
+5,BBC Breaking News,"President Trump denies using crude words about migrants in Oval Office meeting but admits his language was ""tough"" https://t.co/i4ycDRqVaE",Fri Jan 12 12:37:10 +0000 2018,-0.1154,0.121,0.694,0.184
+6,BBC Breaking News,"President Trump's reported remarks on immigrants condemned as ""racist"" and ""shocking"" by UN human rights official https://t.co/i4ycDRqVaE",Fri Jan 12 10:34:02 +0000 2018,-0.4404,0.0,0.847,0.153
+7,BBC Breaking News,Paris police say they have recovered all the jewels stolen on Wednesday in a brazen raid on the Ritz hotel https://t.co/gt1whlh8m5,Thu Jan 11 21:53:24 +0000 2018,-0.0516,0.124,0.744,0.132
+8,BBC Breaking News,Sharp rise in flu cases in England with more patients seeing GPs and hospital admissions up in first week of year https://t.co/zHTsyQxYpO,Thu Jan 11 14:17:23 +0000 2018,-0.3818,0.0,0.89,0.11
+9,BBC Breaking News,"Patients are dying in hospital corridors amid ""intolerable"" NHS conditions, A&amp;E doctors warn the PM https://t.co/sj1HfQEiVM",Thu Jan 11 12:01:33 +0000 2018,-0.1027,0.0,0.915,0.085
+10,BBC Breaking News,"Woman, 63, charged with murder after police find a body buried in a Stockport garden https://t.co/IPZjlRH0sF",Thu Jan 11 08:22:03 +0000 2018,-0.7579,0.0,0.649,0.351
+11,BBC Breaking News,"Tesco Christmas sales up 1.9%, Marks and Spencer sales fall by 1.4% for its third quarter
+https://t.co/JV9rPrHwVw",Thu Jan 11 07:19:24 +0000 2018,0.0,0.0,1.0,0.0
+12,BBC Breaking News,Ex-Trump strategist Steve Bannon stepping down from Breitbart News amid furore over remarks about president's son https://t.co/NDToEWRWjB,Tue Jan 09 21:12:44 +0000 2018,0.0,0.0,1.0,0.0
+13,BBC Breaking News,North and South Korea agree to hold military talks to defuse border tensions https://t.co/AbZ2pK8S8o,Tue Jan 09 12:21:57 +0000 2018,-0.0516,0.145,0.698,0.157
+14,BBC Breaking News,South Korea says a military hotline with the North that was suspended two years ago will reopen on Wednesday https://t.co/YXiutNpawc,Tue Jan 09 09:22:01 +0000 2018,-0.4767,0.0,0.853,0.147
+15,BBC Breaking News,Journalist Toby Young stands down from role in new UK university regulator after criticism over controversial comme… https://t.co/DjSQyOhFRB,Tue Jan 09 07:05:06 +0000 2018,-0.5719,0.0,0.773,0.227
+16,BBC Breaking News,Toby Young resigns as head of new university regulator after criticism over previous controversial comments https://t.co/xNHgDtktzT,Tue Jan 09 06:38:26 +0000 2018,-0.7184,0.0,0.65,0.35
+17,BBC Breaking News,North Korea 'to send high-level delegation' to Winter Olympic Games in South Korea https://t.co/uxVxs2UuX6,Tue Jan 09 04:13:36 +0000 2018,0.0,0.0,1.0,0.0
+18,BBC Breaking News,"@bbclaurak Damian Hinds appointed education secretary, Downing Street says
+
+https://t.co/sw1XM3fHkw #cabinetreshuffle",Mon Jan 08 20:14:30 +0000 2018,0.0,0.0,1.0,0.0
+19,BBC Breaking News,"Education Secretary Justine Greening quits UK government after refusing job in Work &amp; Pensions department,… https://t.co/UA1CBDKXDc",Mon Jan 08 19:52:21 +0000 2018,-0.4019,0.0,0.847,0.153
+20,BBC Breaking News,A 7.1 magnitude quake off the south-west coast of Peru kills two people https://t.co/oLae31f3Qh,Sun Jan 14 14:35:48 +0000 2018,-0.5423,0.0,0.774,0.226
+21,BBC Breaking News,"Burning oil tanker sinks more than a week after collision with cargo ship off China, with 32 lives lost, reports say https://t.co/yAJoNdweTd",Sun Jan 14 09:31:56 +0000 2018,-0.5859,0.0,0.798,0.202
+22,BBC Breaking News,Hawaiians receive emergency text warning of ballistic missile threat but officials later say it was a mistake https://t.co/zl3UENEu5b,Sat Jan 13 18:42:09 +0000 2018,-0.7783,0.0,0.596,0.404
+23,BBC Breaking News,Donald Trump says he will approve Iran's nuclear deal only one more time before abandoning it if it is not changed https://t.co/BwArj6XWFA,Fri Jan 12 18:30:56 +0000 2018,-0.4336,0.0,0.88,0.12
+24,BBC Breaking News,"Nottingham rail station fire is being treated as arson, police say https://t.co/f2kqYucRa8",Fri Jan 12 17:12:10 +0000 2018,-0.34,0.0,0.821,0.179
+25,BBC Breaking News,"President Trump denies using crude words about migrants in Oval Office meeting but admits his language was ""tough"" https://t.co/i4ycDRqVaE",Fri Jan 12 12:37:10 +0000 2018,-0.1154,0.121,0.694,0.184
+26,BBC Breaking News,"President Trump's reported remarks on immigrants condemned as ""racist"" and ""shocking"" by UN human rights official https://t.co/i4ycDRqVaE",Fri Jan 12 10:34:02 +0000 2018,-0.4404,0.0,0.847,0.153
+27,BBC Breaking News,Paris police say they have recovered all the jewels stolen on Wednesday in a brazen raid on the Ritz hotel https://t.co/gt1whlh8m5,Thu Jan 11 21:53:24 +0000 2018,-0.0516,0.124,0.744,0.132
+28,BBC Breaking News,Sharp rise in flu cases in England with more patients seeing GPs and hospital admissions up in first week of year https://t.co/zHTsyQxYpO,Thu Jan 11 14:17:23 +0000 2018,-0.3818,0.0,0.89,0.11
+29,BBC Breaking News,"Patients are dying in hospital corridors amid ""intolerable"" NHS conditions, A&amp;E doctors warn the PM https://t.co/sj1HfQEiVM",Thu Jan 11 12:01:33 +0000 2018,-0.1027,0.0,0.915,0.085
+30,BBC Breaking News,"Woman, 63, charged with murder after police find a body buried in a Stockport garden https://t.co/IPZjlRH0sF",Thu Jan 11 08:22:03 +0000 2018,-0.7579,0.0,0.649,0.351
+31,BBC Breaking News,"Tesco Christmas sales up 1.9%, Marks and Spencer sales fall by 1.4% for its third quarter
+https://t.co/JV9rPrHwVw",Thu Jan 11 07:19:24 +0000 2018,0.0,0.0,1.0,0.0
+32,BBC Breaking News,Ex-Trump strategist Steve Bannon stepping down from Breitbart News amid furore over remarks about president's son https://t.co/NDToEWRWjB,Tue Jan 09 21:12:44 +0000 2018,0.0,0.0,1.0,0.0
+33,BBC Breaking News,North and South Korea agree to hold military talks to defuse border tensions https://t.co/AbZ2pK8S8o,Tue Jan 09 12:21:57 +0000 2018,-0.0516,0.145,0.698,0.157
+34,BBC Breaking News,South Korea says a military hotline with the North that was suspended two years ago will reopen on Wednesday https://t.co/YXiutNpawc,Tue Jan 09 09:22:01 +0000 2018,-0.4767,0.0,0.853,0.147
+35,BBC Breaking News,Journalist Toby Young stands down from role in new UK university regulator after criticism over controversial comme… https://t.co/DjSQyOhFRB,Tue Jan 09 07:05:06 +0000 2018,-0.5719,0.0,0.773,0.227
+36,BBC Breaking News,Toby Young resigns as head of new university regulator after criticism over previous controversial comments https://t.co/xNHgDtktzT,Tue Jan 09 06:38:26 +0000 2018,-0.7184,0.0,0.65,0.35
+37,BBC Breaking News,North Korea 'to send high-level delegation' to Winter Olympic Games in South Korea https://t.co/uxVxs2UuX6,Tue Jan 09 04:13:36 +0000 2018,0.0,0.0,1.0,0.0
+38,BBC Breaking News,"@bbclaurak Damian Hinds appointed education secretary, Downing Street says
+
+https://t.co/sw1XM3fHkw #cabinetreshuffle",Mon Jan 08 20:14:30 +0000 2018,0.0,0.0,1.0,0.0
+39,BBC Breaking News,"Education Secretary Justine Greening quits UK government after refusing job in Work &amp; Pensions department,… https://t.co/UA1CBDKXDc",Mon Jan 08 19:52:21 +0000 2018,-0.4019,0.0,0.847,0.153
+40,BBC Breaking News,A 17-year-old boy admits carrying out a spate of acid attacks against six moped riders in London in a bid to steal… https://t.co/wtOOV3aIRq,Mon Jan 08 16:25:11 +0000 2018,-0.1779,0.095,0.779,0.126
+41,BBC Breaking News,"Man and woman found guilty of plotting UK terror attack using homemade bomb
+
+https://t.co/xeB8WDx1wc https://t.co/BVhrJHTNkm",Mon Jan 08 15:16:16 +0000 2018,-0.91,0.0,0.468,0.532
+42,BBC Breaking News,"RT @BBCSport: Andy Murray has had hip surgery in Melbourne.
+
+Full story?
+https://t.co/V2JdyPIcGq https://t.co/kaXjapXFOa",Mon Jan 08 13:02:21 +0000 2018,0.0,0.0,1.0,0.0
+43,BBC Breaking News,"Ex-football coach Barry Bennell, 63, who is accused of a string of child sex offences, pleads guilty to six charges https://t.co/GhxIQFf7VH",Mon Jan 08 11:34:42 +0000 2018,-0.8176,0.0,0.627,0.373
+44,BBC Breaking News,"Three Billboards Outside Ebbing, Missouri wins 'Best Motion Picture - Drama'
+
+#GoldenGlobes https://t.co/EYJJHWbjY6 https://t.co/egJv83Bbk7",Mon Jan 08 04:08:00 +0000 2018,0.836,0.418,0.582,0.0
+45,BBC Breaking News,"Frances McDormand wins 'Best Actress in a Motion Picture - Drama' for her role in Three Billboards Outside Ebbing,… https://t.co/vviW8Ec178",Mon Jan 08 04:03:16 +0000 2018,0.836,0.331,0.669,0.0
+46,BBC Breaking News,"Gary Oldman wins 'Best Actor in a Motion Picture - Drama' 
+
+#GoldenGlobes https://t.co/068UHmydVC https://t.co/aePg1yXPrl",Mon Jan 08 03:53:28 +0000 2018,0.836,0.441,0.559,0.0
+47,BBC Breaking News,"Lady Bird wins 'Best Motion Picture - Comedy/Musical' 
+
+#GoldenGlobes https://t.co/QrKvMydAKS https://t.co/8cBGj7mkcm",Mon Jan 08 03:46:00 +0000 2018,0.836,0.497,0.503,0.0
+48,BBC Breaking News,"Saoirse Ronan wins 'Best Actress in a Comedy/Musical Motion Picture' for her role in Lady Bird
+
+#GoldenGlobes… https://t.co/nYbvbqKQLW",Mon Jan 08 03:37:26 +0000 2018,0.836,0.345,0.655,0.0
+49,BBC Breaking News,"Ewan McGregor wins 'Best Actor in a Television Miniseries' for his role in Fargo
+
+#GoldenGlobes… https://t.co/Xv309VvS5T",Mon Jan 08 02:49:12 +0000 2018,0.836,0.378,0.622,0.0
+50,BBC Breaking News,"James Franco wins 'Best Actor in a Comedy/Musical Motion Picture'
+
+#GoldenGlobes https://t.co/9ws5IWhSCr https://t.co/bwSjZXBmzJ",Mon Jan 08 02:10:37 +0000 2018,0.836,0.441,0.559,0.0
+51,BBC Breaking News,"BBC editor Carrie Gracie quits in gender pay gap row, accusing the corporation of “breaking equality law” https://t.co/NHajKDyqZR",Sun Jan 07 19:29:21 +0000 2018,-0.2732,0.0,0.838,0.162
+52,BBC Breaking News,"""I went to the best college, I was a very excellent student... the author is a fraud"" - US President Donald Trump s… https://t.co/WMDS4hUFZ5",Sat Jan 06 17:20:24 +0000 2018,0.659,0.283,0.586,0.131
+53,BBC Breaking News,"President Trump insists he is a ""very stable genius"", as he hits back at book claims over his mental fitness https://t.co/yVXTEJbuCq",Sat Jan 06 12:55:35 +0000 2018,0.5563,0.203,0.797,0.0
+54,BBC Breaking News,"Russia mounts fierce criticism of US for convening UN Security Council over Iran protests that are"" internal affair"" https://t.co/1ZeX6hqhTg",Fri Jan 05 21:29:27 +0000 2018,-0.34,0.103,0.69,0.207
+55,BBC Breaking News,Triple killer Theodore Johnson sentenced to minimum term of 26 years for murder of former partner Angela Best https://t.co/1sTsaF0Jb2,Fri Jan 05 14:50:56 +0000 2018,-0.7096,0.143,0.512,0.345
+56,BBC Breaking News,"Jon Venables, one of the killers of toddler James Bulger in 1993, charged over indecent images of children https://t.co/lC4v4kPM8B",Fri Jan 05 14:26:52 +0000 2018,-0.7269,0.0,0.736,0.264
+57,BBC Breaking News,"The Queen's granddaughter Zara Tindall and husband Mike Tindall are expecting their second child, a spokeswoman says https://t.co/MVNABgTW6A",Fri Jan 05 13:39:56 +0000 2018,0.0,0.0,1.0,0.0
+58,BBC Breaking News,"Author of controversial book on Trump says US president has no credibility and his staff ""say he is like a child"" https://t.co/GSiBog471l",Fri Jan 05 12:24:31 +0000 2018,-0.128,0.102,0.735,0.163
+59,BBC Breaking News,"North Korea accepts offer of talks next week to discuss forthcoming Winter Olympics, says South Korea https://t.co/geD4IPrYyO",Fri Jan 05 01:46:34 +0000 2018,0.3182,0.126,0.874,0.0
+60,BBC Breaking News,John Worboys - London taxi driver jailed for raping and sexually assaulting passengers - to be freed from prison https://t.co/buBEtTotvO,Thu Jan 04 15:34:19 +0000 2018,-0.9169,0.089,0.429,0.482
+61,BBC Breaking News,Colman's Mustard to close Norwich factory where it has been based since 1858 https://t.co/BL3DoWT5y7,Thu Jan 04 14:59:56 +0000 2018,0.0,0.0,1.0,0.0
+62,BBC Breaking News,Donald Trump's lawyers seek to stop the release of book containing explosive insights into his presidency https://t.co/KOY92Fwici,Thu Jan 04 14:53:21 +0000 2018,-0.296,0.0,0.879,0.121
+63,BBC Breaking News,"""I know it's difficult, I know it's frustrating... and I apologise"" - Theresa May says sorry for delay to NHS opera… https://t.co/3QdVyRp0CN",Thu Jan 04 12:41:37 +0000 2018,-0.3612,0.11,0.633,0.257
+64,BBC Breaking News,"RT @BBCSport: Andy Murray has pulled out of the Australian Open after failing to recover from injury.
+
+More: https://t.co/h4iWtTmmoK https:…",Thu Jan 04 07:08:12 +0000 2018,-0.7269,0.0,0.747,0.253
+65,BBC Breaking News,"President Trump says Steve Bannon ""lost his mind"" after losing job as aide, in response to a book about White House https://t.co/kqbOjGEfCq",Wed Jan 03 18:29:30 +0000 2018,-0.5994,0.0,0.795,0.205
+66,BBC Breaking News,Homeless man who stole from victims of Manchester Arena explosion admits theft https://t.co/baj6Nzmb89,Wed Jan 03 12:36:08 +0000 2018,-0.0258,0.142,0.71,0.148
+67,BBC Breaking News,"As tension continues, South Korea proposes high-level talks with North for 9 January to discuss Winter Olympics https://t.co/ytbNm2zPia",Tue Jan 02 05:25:32 +0000 2018,-0.3182,0.0,0.874,0.126
+68,BBC Breaking News,"Man held on suspicion of murdering Iuliana Tudos, 22, found dead after going missing on Christmas Eve https://t.co/4c3WwCQqNq",Mon Jan 01 15:11:55 +0000 2018,-0.9246,0.0,0.511,0.489
+69,BBC Breaking News,"Four men stabbed to death in unrelated incidents in London since New Year's Eve, say police https://t.co/LlGjlumRsQ",Mon Jan 01 11:34:51 +0000 2018,-0.7783,0.0,0.688,0.312
+70,BBC Breaking News,Iran protests: At least 10 people killed as anti-government demonstrations continue - state TV https://t.co/JjYLYZzJTb,Mon Jan 01 10:49:12 +0000 2018,-0.7506,0.0,0.652,0.348
+71,BBC Breaking News,"Palestinians recall envoy to US for ""consultations"" in wake of Trump's recognition of Jerusalem as Israel's capital https://t.co/JLLXY2FrIn",Sun Dec 31 17:35:52 +0000 2017,0.0,0.0,1.0,0.0
+72,BBC Breaking News,"Six people killed after seaplane crashes into river in Australia, 30 miles (50km) north of Sydney https://t.co/GyV6oxRjCm",Sun Dec 31 08:57:54 +0000 2017,-0.6705,0.0,0.78,0.22
+73,BBC Breaking News,"Firefighters tackling blaze at 12-storey block of flats in Manchester, as police warn people to avoid area https://t.co/fo331pwF82",Sat Dec 30 17:03:08 +0000 2017,-0.6705,0.0,0.698,0.302
+74,BBC Breaking News,"Beatles drummer Ringo Starr and Bee Gees Barry Gibb knighted, and dancer Darcey Bussell becomes a dame, in New Year… https://t.co/D08tiwZTJD",Fri Dec 29 22:30:39 +0000 2017,0.0,0.0,1.0,0.0
+75,BBC Breaking News,"New York City investigators believe Bronx fire that killed 12 caused by child playing with stove, says mayor https://t.co/ak89ScR5SC",Fri Dec 29 15:33:29 +0000 2017,-0.7269,0.073,0.648,0.279
+76,BBC Breaking News,"At least 9 people killed in gun attack on a church near Cairo, say Egyptian authorities https://t.co/WO1NMhgmVK",Fri Dec 29 12:18:06 +0000 2017,-0.875,0.0,0.545,0.455
+77,BBC Breaking News,Glasgow airport reopens after snow caused temporary closure https://t.co/vgLRoM7p7h,Fri Dec 29 10:06:14 +0000 2017,0.0,0.0,1.0,0.0
+78,BBC Breaking News,Glasgow airport closes temporarily as snow hits parts of Scotland and northern England https://t.co/Rv0Jl92j68,Fri Dec 29 09:44:45 +0000 2017,0.0,0.0,1.0,0.0
+79,BBC Breaking News,"New York fire is ""worst in several decades"". 
+
+Mayor's office now confirms 12 people have been killed by late night… https://t.co/WixfJ4JpuB",Fri Dec 29 03:13:35 +0000 2017,-0.9001,0.0,0.621,0.379
+80,BBC Breaking News,Images from New York as Bronx fire kills six people and seriously injures several: https://t.co/204NWRU9nL https://t.co/83f711ZN5Q,Fri Dec 29 02:55:42 +0000 2017,-0.765,0.0,0.631,0.369
+81,BBC Breaking News,"Massive fire breaks out at popular Mumbai complex, killing at least 14 people, officials say: https://t.co/JM3qSBfYgG",Fri Dec 29 02:06:22 +0000 2017,-0.6124,0.124,0.575,0.301
+82,BBC Breaking News,"He was Africa's first World footballer of the year, now George Weah is set to become Liberia's president https://t.co/GLD2rK3Pd7",Thu Dec 28 18:18:09 +0000 2017,0.0,0.0,1.0,0.0
+83,BBC Breaking News,At least 40 killed in suicide bomb attack on Shia centre in Afghan capital Kabul https://t.co/smF3IjMgyA,Thu Dec 28 07:41:39 +0000 2017,-0.946,0.0,0.44,0.56
+84,BBC Breaking News,"Police officer and woman, 61, die after head-on collision in Sheffield on Christmas Day https://t.co/MoMGnMrzEK",Tue Dec 26 13:20:27 +0000 2017,-0.7506,0.0,0.67,0.33
+85,BBC Breaking News,British woman accused of bringing 300 painkiller tablets into Egypt jailed for three years https://t.co/Rq33xxSps5,Tue Dec 26 12:00:41 +0000 2017,-0.6597,0.0,0.707,0.293
+86,BBC Breaking News,Russia's most senior football official quits temporarily after being given lifetime Olympic ban over doping scandal https://t.co/TXbUrfLQQj,Mon Dec 25 17:54:18 +0000 2017,-0.7579,0.0,0.698,0.302
+87,BBC Breaking News,"North Korea says the latest UN sanctions imposed on the country are an ""act of war"" https://t.co/XcPyiSwkhq",Sun Dec 24 04:10:29 +0000 2017,-0.6369,0.0,0.743,0.257
+88,BBC Breaking News,"London Zoo closed ""until further notice"" after fire leaves an aardvark dead and four meerkats missing https://t.co/6Ofc66FB2A",Sat Dec 23 12:51:59 +0000 2017,-0.836,0.0,0.611,0.389
+89,BBC Breaking News,Philippines tropical storm kills more than 100 with flash floods and mudslides in southern island of Mindanao https://t.co/lI6Al68SHJ,Sat Dec 23 09:28:43 +0000 2017,-0.5423,0.0,0.829,0.171
+90,BBC Breaking News,UN Security Council unanimously adopts resolution imposing new sanctions on North Korea over its missile programme https://t.co/LbrwyUhwHS,Fri Dec 22 18:27:16 +0000 2017,0.4019,0.21,0.718,0.072
+91,BBC Breaking News,"Catalan leader Carles Puigdemont calls for talks without conditions with Spanish PM, after separatist parties retai… https://t.co/N2rvwjCVDG",Fri Dec 22 11:29:17 +0000 2017,0.4019,0.144,0.856,0.0
+92,BBC Breaking News,"Catalan separatists on track to win back most seats in local parliament, drawing new battle lines with Spain's gove… https://t.co/2eKMydQAFm",Thu Dec 21 22:22:42 +0000 2017,0.296,0.156,0.738,0.107
+93,BBC Breaking News,"Woman, 30, dies after being stabbed in Aldi supermarket, in Skipton, North Yorkshire, say police https://t.co/cayz57ps8b",Thu Dec 21 20:35:51 +0000 2017,-0.4404,0.0,0.838,0.162
+94,BBC Breaking News,Three quarters of UN members call on US to withdraw its recognition of Jerusalem as Israel's capital https://t.co/wnYQbp95h3,Thu Dec 21 17:22:27 +0000 2017,0.0,0.0,1.0,0.0
+95,BBC Breaking News,UK MP Mark Garnier cleared of breaking ministerial code after Cabinet Office investigation https://t.co/SdL1VkN6KV,Thu Dec 21 16:48:42 +0000 2017,0.1027,0.097,0.903,0.0
+96,BBC Breaking News,General accused of leading ethnic cleansing campaign in Myanmar is among alleged rights abusers hit by US sanctions https://t.co/17yXWT0bH7,Thu Dec 21 15:59:40 +0000 2017,-0.7003,0.0,0.746,0.254
+97,BBC Breaking News,"Melbourne police update:
+
+- No evidence yet to suggest terror link
+- Driver was Australian citizen of Afghan descen… https://t.co/WnApWGZuaB",Thu Dec 21 10:48:51 +0000 2017,-0.6808,0.0,0.741,0.259
+98,BBC Breaking News,"Australian PM says investigation has begun into ""shocking incident"" in Melbourne, as car is driven into pedestrians… https://t.co/5q1W38zpdk",Thu Dec 21 09:37:29 +0000 2017,-0.4019,0.0,0.863,0.137
+99,BBC Breaking News,"""It was a deliberate act"" - Police arrest two people after a car injured at least 13 pedestrians on a busy Melbourn… https://t.co/xUgGAv4Jsx",Thu Dec 21 08:11:27 +0000 2017,-0.6249,0.0,0.769,0.231
+0,CBS,Cast your vote now and see who will be named the winner of Super Bowl Greatest Commercials 2018! Tune in January 30… https://t.co/zUteavWdKi,Sun Jan 14 22:13:29 +0000 2018,0.9215,0.379,0.621,0.0
+1,CBS,"If you continue to experience problems, please visit https://t.co/wvWEgDYfI5 to send our support team an email.",Sun Jan 14 19:12:26 +0000 2018,0.3182,0.242,0.628,0.13
+2,CBS,"We apologize for the live streaming issues some users are experiencing on CBS All Access this morning. The issue, a… https://t.co/WNl94H269i",Sun Jan 14 19:12:25 +0000 2018,0.1027,0.065,0.935,0.0
+3,CBS,"RT @startrekcbs: There will be lots to discuss after tonight's new #StarTrekDiscovery. Luckily, #AfterTrek has you covered. Join @karterhol…",Sun Jan 14 19:11:33 +0000 2018,0.6705,0.244,0.756,0.0
+4,CBS,Don’t miss the AFC Divisional game! Stream the Jacksonville Jaguars at Pittsburgh Steelers LIVE today at 1:05PM ET… https://t.co/uYjgjaa6Oj,Sun Jan 14 14:49:58 +0000 2018,-0.2244,0.0,0.905,0.095
+5,CBS,"Today's music stars will be tomorrow's legends. In two weeks, celebrate The 60th Annual #GRAMMYs, Sunday, January 2… https://t.co/feZVWMIKua",Sun Jan 14 12:00:01 +0000 2018,0.5719,0.171,0.829,0.0
+6,CBS,Don’t miss the AFC Divisional game! Stream the Tennessee Titans at New England Patriots LIVE tonight at 8:15PM ET w… https://t.co/X34bNfms3j,Sat Jan 13 14:32:07 +0000 2018,-0.2244,0.0,0.914,0.086
+7,CBS,Star power makes these commercials instant classics! Vote for your favorite spot now and watch Super Bowl Greatest… https://t.co/DwBhTazToF,Fri Jan 12 21:39:27 +0000 2018,0.8016,0.297,0.703,0.0
+8,CBS,Four-time GRAMMY® winner @KeithUrban inspires the next generation of young artists through music education. Because… https://t.co/1a32zReMrn,Fri Jan 12 12:00:05 +0000 2018,0.7717,0.324,0.676,0.0
+9,CBS,Here's why @startrekcbs needs to be your next binge: https://t.co/locrpdx0VT #StarTrekDiscovery https://t.co/XOMuprlXzG,Thu Jan 11 20:34:24 +0000 2018,0.0,0.0,1.0,0.0
+10,CBS,RT @Elementary_CBS: Your favorite detective duo is back! #Elementary returns April 30 at 10/9c! https://t.co/aG8XiwAd6S,Thu Jan 11 20:31:42 +0000 2018,0.555,0.204,0.796,0.0
+11,CBS,"RT @CodeBlackCBS: Return to Angels Memorial on Wednesday, May 2 for season 3 of #CodeBlack. https://t.co/ZmfuQhOwoU",Thu Jan 11 20:31:33 +0000 2018,0.0,0.0,1.0,0.0
+12,CBS,#TBT to when @latelateshow's @JKCorden rolled into the 2017 #GRAMMYs! Don't miss him return to host The 60th Annual… https://t.co/CbczcnV3HK,Thu Jan 11 12:00:06 +0000 2018,0.1867,0.084,0.916,0.0
+13,CBS,Hosts @7BOOMERESIASON &amp; @DanielaRuah return in Super Bowl Greatest Commercials 2018 pitting man vs. beast! Cast you… https://t.co/bk8OKTblMw,Wed Jan 10 17:15:18 +0000 2018,0.8553,0.344,0.656,0.0
+14,CBS,"Music's Biggest Night® just got bigger with epic performances by @BrunoMars with @iamcardib, @KeshaRose, @sza and m… https://t.co/rCWrP6PihR",Wed Jan 10 14:44:59 +0000 2018,0.0,0.0,1.0,0.0
+15,CBS,RT @BullCBS: Dr. #Bull's latest case could change the way Psychologists work. Don't miss tonight's new episode at 9/8c on CBS! https://t.co…,Tue Jan 09 19:30:28 +0000 2018,0.1867,0.076,0.924,0.0
+16,CBS,"?@Prince pushed the envelope and never settled for ordinary.
+
+Celebrate the greatest artists in music history at Th… https://t.co/GPZ9YgK1tH",Tue Jan 09 19:27:16 +0000 2018,0.836,0.317,0.683,0.0
+17,CBS,RT @AmazingRaceCBS: This race is just getting started. Catch a new episode of The #AmazingRace tomorrow at 8/7c on CBS! https://t.co/Nab5DC…,Tue Jan 09 18:29:39 +0000 2018,0.0,0.0,1.0,0.0
+18,CBS,RT @startrekcbs: #StarTrekDiscovery is back! Episode 10 is now streaming on CBS All Access: https://t.co/xPeb97Rs8J https://t.co/Uvgab7nGgS,Mon Jan 08 18:07:57 +0000 2018,0.0,0.0,1.0,0.0
+19,CBS,"New year, new case. Watch the latest episode of #NCISLA now: https://t.co/1rAsX4EsiB https://t.co/QzRZcORK9r",Mon Jan 08 14:34:48 +0000 2018,0.0,0.0,1.0,0.0
+20,CBS,Cast your vote now and see who will be named the winner of Super Bowl Greatest Commercials 2018! Tune in January 30… https://t.co/zUteavWdKi,Sun Jan 14 22:13:29 +0000 2018,0.9215,0.379,0.621,0.0
+21,CBS,"If you continue to experience problems, please visit https://t.co/wvWEgDYfI5 to send our support team an email.",Sun Jan 14 19:12:26 +0000 2018,0.3182,0.242,0.628,0.13
+22,CBS,"We apologize for the live streaming issues some users are experiencing on CBS All Access this morning. The issue, a… https://t.co/WNl94H269i",Sun Jan 14 19:12:25 +0000 2018,0.1027,0.065,0.935,0.0
+23,CBS,"RT @startrekcbs: There will be lots to discuss after tonight's new #StarTrekDiscovery. Luckily, #AfterTrek has you covered. Join @karterhol…",Sun Jan 14 19:11:33 +0000 2018,0.6705,0.244,0.756,0.0
+24,CBS,Don’t miss the AFC Divisional game! Stream the Jacksonville Jaguars at Pittsburgh Steelers LIVE today at 1:05PM ET… https://t.co/uYjgjaa6Oj,Sun Jan 14 14:49:58 +0000 2018,-0.2244,0.0,0.905,0.095
+25,CBS,"Today's music stars will be tomorrow's legends. In two weeks, celebrate The 60th Annual #GRAMMYs, Sunday, January 2… https://t.co/feZVWMIKua",Sun Jan 14 12:00:01 +0000 2018,0.5719,0.171,0.829,0.0
+26,CBS,Don’t miss the AFC Divisional game! Stream the Tennessee Titans at New England Patriots LIVE tonight at 8:15PM ET w… https://t.co/X34bNfms3j,Sat Jan 13 14:32:07 +0000 2018,-0.2244,0.0,0.914,0.086
+27,CBS,Star power makes these commercials instant classics! Vote for your favorite spot now and watch Super Bowl Greatest… https://t.co/DwBhTazToF,Fri Jan 12 21:39:27 +0000 2018,0.8016,0.297,0.703,0.0
+28,CBS,Four-time GRAMMY® winner @KeithUrban inspires the next generation of young artists through music education. Because… https://t.co/1a32zReMrn,Fri Jan 12 12:00:05 +0000 2018,0.7717,0.324,0.676,0.0
+29,CBS,Here's why @startrekcbs needs to be your next binge: https://t.co/locrpdx0VT #StarTrekDiscovery https://t.co/XOMuprlXzG,Thu Jan 11 20:34:24 +0000 2018,0.0,0.0,1.0,0.0
+30,CBS,RT @Elementary_CBS: Your favorite detective duo is back! #Elementary returns April 30 at 10/9c! https://t.co/aG8XiwAd6S,Thu Jan 11 20:31:42 +0000 2018,0.555,0.204,0.796,0.0
+31,CBS,"RT @CodeBlackCBS: Return to Angels Memorial on Wednesday, May 2 for season 3 of #CodeBlack. https://t.co/ZmfuQhOwoU",Thu Jan 11 20:31:33 +0000 2018,0.0,0.0,1.0,0.0
+32,CBS,#TBT to when @latelateshow's @JKCorden rolled into the 2017 #GRAMMYs! Don't miss him return to host The 60th Annual… https://t.co/CbczcnV3HK,Thu Jan 11 12:00:06 +0000 2018,0.1867,0.084,0.916,0.0
+33,CBS,Hosts @7BOOMERESIASON &amp; @DanielaRuah return in Super Bowl Greatest Commercials 2018 pitting man vs. beast! Cast you… https://t.co/bk8OKTblMw,Wed Jan 10 17:15:18 +0000 2018,0.8553,0.344,0.656,0.0
+34,CBS,"Music's Biggest Night® just got bigger with epic performances by @BrunoMars with @iamcardib, @KeshaRose, @sza and m… https://t.co/rCWrP6PihR",Wed Jan 10 14:44:59 +0000 2018,0.0,0.0,1.0,0.0
+35,CBS,RT @BullCBS: Dr. #Bull's latest case could change the way Psychologists work. Don't miss tonight's new episode at 9/8c on CBS! https://t.co…,Tue Jan 09 19:30:28 +0000 2018,0.1867,0.076,0.924,0.0
+36,CBS,"?@Prince pushed the envelope and never settled for ordinary.
+
+Celebrate the greatest artists in music history at Th… https://t.co/GPZ9YgK1tH",Tue Jan 09 19:27:16 +0000 2018,0.836,0.317,0.683,0.0
+37,CBS,RT @AmazingRaceCBS: This race is just getting started. Catch a new episode of The #AmazingRace tomorrow at 8/7c on CBS! https://t.co/Nab5DC…,Tue Jan 09 18:29:39 +0000 2018,0.0,0.0,1.0,0.0
+38,CBS,RT @startrekcbs: #StarTrekDiscovery is back! Episode 10 is now streaming on CBS All Access: https://t.co/xPeb97Rs8J https://t.co/Uvgab7nGgS,Mon Jan 08 18:07:57 +0000 2018,0.0,0.0,1.0,0.0
+39,CBS,"New year, new case. Watch the latest episode of #NCISLA now: https://t.co/1rAsX4EsiB https://t.co/QzRZcORK9r",Mon Jan 08 14:34:48 +0000 2018,0.0,0.0,1.0,0.0
+40,CBS,RT @AmazingRaceCBS: Which teams are zipping through the first leg of the #AmazingRace? https://t.co/8isAwPyrLY,Mon Jan 08 14:29:20 +0000 2018,0.0,0.0,1.0,0.0
+41,CBS,RT @MadamSecretary: Is VP Hurst going to work with or against Elizabeth? Stream a new #MadamSecretary live with CBS All Access: https://t.c…,Mon Jan 08 00:29:51 +0000 2018,0.0,0.0,1.0,0.0
+42,CBS,"RT @debrabirnbaum: .@ShawnRyanTV: To me, being on CBS is the opposite of preaching to the choir. #TCA18",Sat Jan 06 20:05:17 +0000 2018,0.0,0.0,1.0,0.0
+43,CBS,RT @LivinBiblically: “The truth is it somehow gorgeously straddles both sides...I have had friends come from all different walks of life an…,Sat Jan 06 19:04:08 +0000 2018,0.8271,0.314,0.686,0.0
+44,CBS,RT @instinctcbs: “This is a crime show where at the end you’re not reminded of how miserable things are in the world right now…You feel sat…,Sat Jan 06 19:03:38 +0000 2018,-0.7717,0.0,0.774,0.226
+45,CBS,"RT @startrekcbs: Star Trek has touched the lives of generations of fans, including the cast and writers of #StarTrekDiscovery. What's your…",Sat Jan 06 00:37:55 +0000 2018,0.0,0.0,1.0,0.0
+46,CBS,#StrangeAngel has found its leading man! Jack Reynor will star as famed rocket engineer Jack Parsons in the upcomin… https://t.co/sHkSKABGfd,Sat Jan 06 00:30:53 +0000 2018,0.0,0.0,1.0,0.0
+47,CBS,"The streak of new episodes continues! Watch new episodes of #MacGyver, #H50 &amp; #BlueBloods tonight starting at 8/7c.… https://t.co/xs2vbVqBJZ",Fri Jan 05 18:30:42 +0000 2018,0.0,0.0,1.0,0.0
+48,CBS,"RT @CBSTweet: #CBSRatingsNews: CBS Sweeps Fourth Quarter Ratings in Daytime, Primetime and Late Night for the First Time Since 2009 https:/…",Fri Jan 05 16:05:58 +0000 2018,0.0,0.0,1.0,0.0
+49,CBS,"New year, new episodes! Don't miss all-new episodes of @BigBangTheory, @YoungSheldon, @MomCBS, @LifeInPiecesCBS, an… https://t.co/COf6Qg8Mz1",Thu Jan 04 23:13:02 +0000 2018,0.1867,0.11,0.89,0.0
+50,CBS,"Current nominees @LadyGaga, @LittleBigTown, @Pink, Childish Gambino and more will perform live at the #GRAMMYs, Jan… https://t.co/PlLMasNPwD",Thu Jan 04 14:43:09 +0000 2018,-0.296,0.0,0.879,0.121
+51,CBS,"RT @startrekcbs: From Airiam to Zefram Cochrane, #StarTrekDiscovery features fascinating new concepts along with classic references. What's…",Wed Jan 03 20:33:09 +0000 2018,0.5423,0.179,0.821,0.0
+52,CBS,Torres and Bishop went undercover as a criminal couple on the latest episode of #NCIS. Catch up now:… https://t.co/1iTEneHyJS,Wed Jan 03 19:51:15 +0000 2018,-0.5267,0.0,0.833,0.167
+53,CBS,Do you know all the nominees for Artist Of The Year? Get familiar with this year's GRAMMY® Award nominees ahead of… https://t.co/UQa8Mu9PUV,Wed Jan 03 15:00:05 +0000 2018,0.5423,0.143,0.857,0.0
+54,CBS,"The new year of new episodes continues tonight with all-new episodes of #AmazingRace, #SEALTeam and #CriminalMinds… https://t.co/bwhNhQgsFC",Wed Jan 03 12:00:01 +0000 2018,0.0,0.0,1.0,0.0
+55,CBS,"RT @BullCBS: Tonight, can #Bull prove that a teen accused of robbing a jewelry store isn't responsible for the crime? Tune in at 9/8c or st…",Wed Jan 03 00:47:26 +0000 2018,-0.7692,0.0,0.733,0.267
+56,CBS,It's your last chance to choose the pro football player with the best off-the-field talent! Vote now to decide who… https://t.co/6DjwqU0MB9,Tue Jan 02 22:41:51 +0000 2018,0.8516,0.34,0.66,0.0
+57,CBS,"New year, new episodes -- all week long! It kicks off with an all-new #NCIS, #Bull and #NCISNOLA tonight starting a… https://t.co/bcmAaUQJtf",Tue Jan 02 08:00:03 +0000 2018,0.0,0.0,1.0,0.0
+58,CBS,"Due to #NFL football games overrun, revised start times &amp; lineup for Eastern/Central Time Zones Only:
+#60Minutes 8:… https://t.co/rqOYbM5j0h",Mon Jan 01 01:16:12 +0000 2018,0.0,0.0,1.0,0.0
+59,CBS,Get ready for football! Stream NFL on CBS today with #CBSAllAccess. Try 1 month FREE with promo code BINGE (not ava… https://t.co/NEntvW7QHd,Sun Dec 31 14:37:05 +0000 2017,0.7798,0.264,0.736,0.0
+60,CBS,"RT @NoActivityCBS: All season nothing's happened. Now prepare for activity. Stream the #NoActivity season finale Sunday, Dec 31 on CBS All…",Sat Dec 30 20:25:20 +0000 2017,0.0,0.0,1.0,0.0
+61,CBS,RT @startrekcbs: Find out what happens when you boldly go too far. #StarTrekDiscovery continues January 7 on CBS All Access: https://t.co/f…,Sat Dec 30 20:24:58 +0000 2017,0.3612,0.116,0.884,0.0
+62,CBS,Stream NC State Wolfpack at Arizona State Sun Devils LIVE today at 3PM ET with a 1-month FREE trial of… https://t.co/8k50thgtip,Fri Dec 29 16:06:02 +0000 2017,0.0857,0.157,0.699,0.144
+63,CBS,"In case you missed this star-studded tribute to Carol Burnett's classic comedy series, catch up now! Watch The Caro… https://t.co/wu7BxM9gtm",Thu Dec 28 20:31:01 +0000 2017,0.1511,0.121,0.783,0.096
+64,CBS,Some of TV's biggest stars saluted @TheNormanLear's impact on television and culture at The 40th Annual Kennedy Cen… https://t.co/E74ChUW1uE,Thu Dec 28 19:28:22 +0000 2017,0.0,0.0,1.0,0.0
+65,CBS,The search is on to find the pro football player with the best off-the-field talent. Vote for your favorite player… https://t.co/R0fb5ngJ16,Wed Dec 27 22:45:05 +0000 2017,0.875,0.357,0.643,0.0
+66,CBS,"Celebrate everyone's favorite classic sitcom with Carol Burnett, Vicki Lawrence, and more stars during The Carol Bu… https://t.co/SaiZ9TzBVO",Wed Dec 27 21:04:10 +0000 2017,0.7717,0.295,0.705,0.0
+67,CBS,Joy to the world of streaming! Try #CBSAllAccess FREE for 1 month – just use code BINGE by 1/2:… https://t.co/9p1ACnslz6,Wed Dec 27 19:52:02 +0000 2017,0.8452,0.337,0.663,0.0
+68,CBS,"Music legend Stevie Wonder salutes @LionelRichie while performing his classic hit, ""Easy"" at The 40th Annual Kenned… https://t.co/7TeDeNyhgo",Wed Dec 27 19:40:34 +0000 2017,0.0,0.0,1.0,0.0
+69,CBS,"As the youngest Kennedy Center Honoree in 40 years, @LLCoolJ talks about what motivates him to chase his dreams. Wa… https://t.co/DFY78y99w3",Wed Dec 27 12:00:01 +0000 2017,0.7003,0.234,0.766,0.0
+70,CBS,Here's to the 2017 Kennedy Center Honorees! Catch up on an evening of stunning performances and inspiring speeches… https://t.co/jGfANpSCul,Wed Dec 27 07:27:33 +0000 2017,0.8398,0.36,0.64,0.0
+71,CBS,This celebration could go all night long! What a great final performance in honor of @LionelRichie. #KCHonors https://t.co/xKLWpKr3v0,Wed Dec 27 04:00:52 +0000 2017,0.8221,0.336,0.664,0.0
+72,CBS,RT @MarkAPrinceJr: A #LionelRichie tribute is not complete without ?All Night Long? ? #KCHonors,Wed Dec 27 03:59:48 +0000 2017,0.0,0.0,1.0,0.0
+73,CBS,Carmen de Lavallade (@CarmenDances) got emotional during those beautiful performances in her honor. Congratulations… https://t.co/gOCAZpZDpt,Wed Dec 27 03:36:01 +0000 2017,0.8271,0.42,0.58,0.0
+74,CBS,RT @Glamourtunist: This tribute to Carmen de Lavallade at the #KCHonors is so beautiful and well deserved. ??,Wed Dec 27 03:35:29 +0000 2017,0.8103,0.315,0.685,0.0
+75,CBS,RT @llcoolj: Attn: #HIPHOP !!!! We made history!! #KCHonors,Wed Dec 27 03:03:49 +0000 2017,0.0,0.0,1.0,0.0
+76,CBS,.@llcoolj is making history! He’s the Kennedy Center’s first hip-hop honoree. #KCHonors https://t.co/kCqkOdUjtu,Wed Dec 27 03:03:26 +0000 2017,0.5255,0.22,0.78,0.0
+77,CBS,RT @ErinAnnCullen: #KCHonors is always a night of inspiration. Thank you to these artists for your impact on our country. ???????,Wed Dec 27 02:57:56 +0000 2017,0.7096,0.247,0.753,0.0
+78,CBS,Give a round of applause to television pioneer and 2017 Honoree @TheNormanLear! #KCHonors https://t.co/20UosF987x,Wed Dec 27 02:48:52 +0000 2017,0.7345,0.36,0.64,0.0
+79,CBS,RT @AliL: This tribute to Norman Lear on #KCHonors is outstanding AND a walk down my childhood TV memory lane. ???,Wed Dec 27 02:45:34 +0000 2017,0.6124,0.174,0.826,0.0
+80,CBS,RT @llcoolj: Moments I’ll never forget!!! #KCHonors,Wed Dec 27 02:28:07 +0000 2017,0.3699,0.298,0.702,0.0
+81,CBS,.@GloriaEstefan approves of those amazing musical performances in her honor! #KCHonors https://t.co/i3EVYEoKRx,Wed Dec 27 02:26:46 +0000 2017,0.8748,0.526,0.474,0.0
+82,CBS,RT @thepickypantry: Beautiful tribute to @GloriaEstefan on the Kennedy Center Honors. Love Mi Tierra! Amazing and inspiring what a fighter…,Wed Dec 27 02:20:11 +0000 2017,0.9601,0.566,0.434,0.0
+83,CBS,Time to celebrate the 2017 honorees at The 40th Annual Kennedy Center Honors! Tune in now on CBS and CBS All Access… https://t.co/1OULMpCfPy,Wed Dec 27 02:00:29 +0000 2017,0.8908,0.346,0.654,0.0
+84,CBS,"Tonight, @LionelRichie, @LLCoolJ, @GloriaEstefan, @TheNormanLear &amp; Carmen de Lavallade will be recognized at The 40… https://t.co/jZJqNo8h3b",Wed Dec 27 01:08:32 +0000 2017,0.0,0.0,1.0,0.0
+85,CBS,"Don't miss the breathtaking performances, standing ovations and moving tributes that will leave you inspired. Here'… https://t.co/imILa52fjz",Tue Dec 26 12:00:01 +0000 2017,0.2415,0.218,0.61,0.173
+86,CBS,"Experience the performances and the memories when 2017 Honorees @LionelRichie, @GloriaEstefan, Carmen de Lavallade,… https://t.co/ygbqASVL7t",Mon Dec 25 12:00:05 +0000 2017,0.5106,0.191,0.809,0.0
+87,CBS,"Due to NFL overrun CBS is delayed 36mins in Charlotte/NC, Cincinnati/OH, Nashville, Atlanta, New Orleans, Baton Rou… https://t.co/20mnbAhpTm",Mon Dec 25 00:48:24 +0000 2017,-0.2263,0.0,0.899,0.101
+88,CBS,"Tonight, get together and enjoy Christmas Eve with a two-hour marathon of your favorite classic sitcoms! Watch The… https://t.co/SCv8TJy9Yp",Sun Dec 24 20:40:42 +0000 2017,0.7574,0.289,0.711,0.0
+89,CBS,Get ready for football! Stream NFL on CBS today with #CBSAllAccess. Try 1 month FREE with promo code BINGE! (Not av… https://t.co/6mR4bRR5Ey,Sun Dec 24 14:17:43 +0000 2017,0.7974,0.273,0.727,0.0
+90,CBS,"All In The Family star @RobReiner gives props to legendary television writer, producer and 2017 Kennedy Center Hono… https://t.co/98jc5i63zE",Sun Dec 24 12:30:02 +0000 2017,0.0,0.0,1.0,0.0
+91,CBS,"Rapper @BustaRhymes pays tribute to @LLCoolJ, performing his hit song ""Mama Said Knock You Out"" at The 40th Annual… https://t.co/CRjQArUqwd",Sat Dec 23 16:21:17 +0000 2017,0.0,0.0,1.0,0.0
+92,CBS,"Oh, what fun it is to stream! Start a 1-month FREE trial of #CBSAllAccess now. Use promo code BINGE by 1/2:… https://t.co/rSAnDJDgbI",Sat Dec 23 15:00:02 +0000 2017,0.8236,0.286,0.714,0.0
+93,CBS,CBS stars are glowing with holiday spirit! See how the stars are getting festive this season:… https://t.co/7qYTHoxFIc,Sat Dec 23 12:37:04 +0000 2017,0.7712,0.355,0.645,0.0
+94,CBS,Spread some holiday cheer and laugh along with Dick Van Dyke and Mary Tyler Moore in two back-to-back episodes of T… https://t.co/N89JoYvXZW,Sat Dec 23 07:24:44 +0000 2017,0.743,0.311,0.583,0.107
+95,CBS,Come home for the holidays with Lucy and Ricky in the I Love Lucy Christmas Special! Stream the full show:… https://t.co/s7f9mjEtER,Sat Dec 23 06:39:45 +0000 2017,0.8687,0.365,0.635,0.0
+96,CBS,"Tonight at 9/8c, gather the family for two hilarious episodes of this classic sitcom in The Dick Van Dyke Show- Now… https://t.co/YcyECVr2NN",Sat Dec 23 01:38:37 +0000 2017,-0.1531,0.104,0.769,0.127
+97,CBS,Get ready to laugh in the holidays tonight with Lucy and the gang in the I Love Lucy Christmas Special at 8/7c! Str… https://t.co/txU2TwXWOg,Sat Dec 23 00:39:52 +0000 2017,0.9422,0.469,0.531,0.0
+98,CBS,"Tonight, ring in the holidays with two back-to-back episodes of a timeless comedy classic, now in color! Watch the… https://t.co/skJsgJdQel",Fri Dec 22 19:35:35 +0000 2017,0.6588,0.241,0.759,0.0
+99,CBS,"Groundbreaking, daring, fearless. This is CBS All Access Originals. 
+
+Sign up now to watch @StarTrekCBS,… https://t.co/kvPsJafYrN",Fri Dec 22 18:03:20 +0000 2017,0.6597,0.278,0.722,0.0
+0,CNN Breaking News,RT @CNNPolitics: Sen. Jeff Flake is expected to deliver a floor speech comparing President Trump's attacks on the news media to the rhetori…,Mon Jan 15 01:13:56 +0000 2018,-0.4404,0.0,0.879,0.121
+1,CNN Breaking News,"RT @CNNPolitics: President Trump: ""I am not a racist"" https://t.co/HSRimPxTYH https://t.co/PLdoD93kAQ",Mon Jan 15 01:13:25 +0000 2018,0.4973,0.264,0.736,0.0
+2,CNN Breaking News,New Jersey Gov. Chris Christie and Sen. Cory Booker join a bipartisan group pushing back against the Trump administ… https://t.co/bQSPZA5y7W,Sun Jan 14 23:17:57 +0000 2018,0.296,0.109,0.891,0.0
+3,CNN Breaking News,NBA Hall of Famer Dennis Rodman was arrested and charged with driving under the influence Saturday night.… https://t.co/PUS7Sw9iIA,Sun Jan 14 20:42:14 +0000 2018,-0.5994,0.0,0.766,0.234
+4,CNN Breaking News,At least 20 people have died as a result of mudslides in California. Four are still missing https://t.co/cmfav4Hjxz https://t.co/6ZXrZ33aBb,Sun Jan 14 18:06:51 +0000 2018,-0.7003,0.0,0.734,0.266
+5,CNN Breaking News,RT @CNNPolitics: Haitian-American GOP Rep. Mia Love on President Trump’s comments about Haiti and African nations: “I can’t defend the inde…,Sun Jan 14 14:36:34 +0000 2018,0.4588,0.165,0.748,0.087
+6,CNN Breaking News,RT @CNNPolitics: Hawaii Rep. Tulsi Gabbard on the false missile warning: “This was unacceptable that this happened but it really highlights…,Sun Jan 14 14:23:07 +0000 2018,-0.4019,0.0,0.837,0.163
+7,CNN Breaking News,Israel says it destroyed a mile-long Hamas tunnel that stretched from Gaza into Egypt https://t.co/vVA1tX75tG https://t.co/hXUZH2WQHV,Sun Jan 14 13:44:59 +0000 2018,-0.4939,0.0,0.814,0.186
+8,CNN Breaking News,At least two people are dead after a 7.1-magnitude earthquake shakes Peru https://t.co/G5lm0yH1zp https://t.co/h6p2eZLFxR,Sun Jan 14 13:37:13 +0000 2018,-0.6486,0.0,0.736,0.264
+9,CNN Breaking News,"The Trump administration, citing a federal court order, resumes receiving renewal applications for individuals elig… https://t.co/2qDgDq3geX",Sun Jan 14 04:59:57 +0000 2018,0.0,0.0,1.0,0.0
+10,CNN Breaking News,A series of attacks on Catholic churches have prompted Chilean authorities to review security ahead of Pope Francis… https://t.co/wgU09u8Pwo,Sun Jan 14 03:10:21 +0000 2018,-0.128,0.113,0.751,0.136
+11,CNN Breaking News,"RT @CNNPolitics: Rep. Trey Gowdy steps down from the House Ethics Committee, citing ""workload""  https://t.co/eUCg2zufK8 https://t.co/1HEgom…",Sun Jan 14 00:19:12 +0000 2018,0.0,0.0,1.0,0.0
+12,CNN Breaking News,Facebook COO Sheryl Sandberg and Twitter CEO Jack Dorsey are leaving Disney's board of directors over potential con… https://t.co/lkLWeXQ70c,Sat Jan 13 23:05:45 +0000 2018,0.0,0.0,1.0,0.0
+13,CNN Breaking News,Actor Mark Wahlberg is donating $1.5M to the Time's Up fund in co-star Michelle Williams' name after criticism over… https://t.co/imoAmpjaHw,Sat Jan 13 22:11:39 +0000 2018,-0.4404,0.0,0.868,0.132
+14,CNN Breaking News,"Chelsea Manning, the ex-Army intelligence analyst convicted of leaking 750,000 pages of sensitive government docume… https://t.co/DuRCYlOtoc",Sat Jan 13 21:23:35 +0000 2018,0.4767,0.171,0.829,0.0
+15,CNN Breaking News,"A false alarm about a missile threatening Hawaii was a mistake made when ""an employee pushed the wrong button,"" Haw… https://t.co/w1K90VkYvD",Sat Jan 13 20:14:21 +0000 2018,-0.8834,0.0,0.553,0.447
+16,CNN Breaking News,"The California man accused of initiating a ""swatting"" incident that ended in a Kansas man's death has been charged… https://t.co/xkVJIbgT6Y",Sat Jan 13 19:49:08 +0000 2018,-0.7269,0.0,0.724,0.276
+17,CNN Breaking News,"An emergency alert notification sent out on Saturday claiming a ""ballistic missile threat inbound to Hawaii"" was a… https://t.co/9Cgq64zABf",Sat Jan 13 18:50:39 +0000 2018,-0.5859,0.095,0.647,0.259
+18,CNN Breaking News,"A cold front swept across the Eastern US, bringing winter storm warnings and bitter cold to millions of people… https://t.co/U2EwYCPT9h",Sat Jan 13 18:19:52 +0000 2018,-0.6124,0.0,0.773,0.227
+19,CNN Breaking News,"Legendary sportscaster Keith Jackson, whose rich voice endeared him to generations of college football fans, has di… https://t.co/iqjfkZVQYJ",Sat Jan 13 18:03:01 +0000 2018,0.5574,0.175,0.825,0.0
+20,CNN Breaking News,RT @CNNPolitics: Sen. Jeff Flake is expected to deliver a floor speech comparing President Trump's attacks on the news media to the rhetori…,Mon Jan 15 01:13:56 +0000 2018,-0.4404,0.0,0.879,0.121
+21,CNN Breaking News,"RT @CNNPolitics: President Trump: ""I am not a racist"" https://t.co/HSRimPxTYH https://t.co/PLdoD93kAQ",Mon Jan 15 01:13:25 +0000 2018,0.4973,0.264,0.736,0.0
+22,CNN Breaking News,New Jersey Gov. Chris Christie and Sen. Cory Booker join a bipartisan group pushing back against the Trump administ… https://t.co/bQSPZA5y7W,Sun Jan 14 23:17:57 +0000 2018,0.296,0.109,0.891,0.0
+23,CNN Breaking News,NBA Hall of Famer Dennis Rodman was arrested and charged with driving under the influence Saturday night.… https://t.co/PUS7Sw9iIA,Sun Jan 14 20:42:14 +0000 2018,-0.5994,0.0,0.766,0.234
+24,CNN Breaking News,At least 20 people have died as a result of mudslides in California. Four are still missing https://t.co/cmfav4Hjxz https://t.co/6ZXrZ33aBb,Sun Jan 14 18:06:51 +0000 2018,-0.7003,0.0,0.734,0.266
+25,CNN Breaking News,RT @CNNPolitics: Haitian-American GOP Rep. Mia Love on President Trump’s comments about Haiti and African nations: “I can’t defend the inde…,Sun Jan 14 14:36:34 +0000 2018,0.4588,0.165,0.748,0.087
+26,CNN Breaking News,RT @CNNPolitics: Hawaii Rep. Tulsi Gabbard on the false missile warning: “This was unacceptable that this happened but it really highlights…,Sun Jan 14 14:23:07 +0000 2018,-0.4019,0.0,0.837,0.163
+27,CNN Breaking News,Israel says it destroyed a mile-long Hamas tunnel that stretched from Gaza into Egypt https://t.co/vVA1tX75tG https://t.co/hXUZH2WQHV,Sun Jan 14 13:44:59 +0000 2018,-0.4939,0.0,0.814,0.186
+28,CNN Breaking News,At least two people are dead after a 7.1-magnitude earthquake shakes Peru https://t.co/G5lm0yH1zp https://t.co/h6p2eZLFxR,Sun Jan 14 13:37:13 +0000 2018,-0.6486,0.0,0.736,0.264
+29,CNN Breaking News,"The Trump administration, citing a federal court order, resumes receiving renewal applications for individuals elig… https://t.co/2qDgDq3geX",Sun Jan 14 04:59:57 +0000 2018,0.0,0.0,1.0,0.0
+30,CNN Breaking News,A series of attacks on Catholic churches have prompted Chilean authorities to review security ahead of Pope Francis… https://t.co/wgU09u8Pwo,Sun Jan 14 03:10:21 +0000 2018,-0.128,0.113,0.751,0.136
+31,CNN Breaking News,"RT @CNNPolitics: Rep. Trey Gowdy steps down from the House Ethics Committee, citing ""workload""  https://t.co/eUCg2zufK8 https://t.co/1HEgom…",Sun Jan 14 00:19:12 +0000 2018,0.0,0.0,1.0,0.0
+32,CNN Breaking News,Facebook COO Sheryl Sandberg and Twitter CEO Jack Dorsey are leaving Disney's board of directors over potential con… https://t.co/lkLWeXQ70c,Sat Jan 13 23:05:45 +0000 2018,0.0,0.0,1.0,0.0
+33,CNN Breaking News,Actor Mark Wahlberg is donating $1.5M to the Time's Up fund in co-star Michelle Williams' name after criticism over… https://t.co/imoAmpjaHw,Sat Jan 13 22:11:39 +0000 2018,-0.4404,0.0,0.868,0.132
+34,CNN Breaking News,"Chelsea Manning, the ex-Army intelligence analyst convicted of leaking 750,000 pages of sensitive government docume… https://t.co/DuRCYlOtoc",Sat Jan 13 21:23:35 +0000 2018,0.4767,0.171,0.829,0.0
+35,CNN Breaking News,"A false alarm about a missile threatening Hawaii was a mistake made when ""an employee pushed the wrong button,"" Haw… https://t.co/w1K90VkYvD",Sat Jan 13 20:14:21 +0000 2018,-0.8834,0.0,0.553,0.447
+36,CNN Breaking News,"The California man accused of initiating a ""swatting"" incident that ended in a Kansas man's death has been charged… https://t.co/xkVJIbgT6Y",Sat Jan 13 19:49:08 +0000 2018,-0.7269,0.0,0.724,0.276
+37,CNN Breaking News,"An emergency alert notification sent out on Saturday claiming a ""ballistic missile threat inbound to Hawaii"" was a… https://t.co/9Cgq64zABf",Sat Jan 13 18:50:39 +0000 2018,-0.5859,0.095,0.647,0.259
+38,CNN Breaking News,"A cold front swept across the Eastern US, bringing winter storm warnings and bitter cold to millions of people… https://t.co/U2EwYCPT9h",Sat Jan 13 18:19:52 +0000 2018,-0.6124,0.0,0.773,0.227
+39,CNN Breaking News,"Legendary sportscaster Keith Jackson, whose rich voice endeared him to generations of college football fans, has di… https://t.co/iqjfkZVQYJ",Sat Jan 13 18:03:01 +0000 2018,0.5574,0.175,0.825,0.0
+40,CNN Breaking News,"RT @CNNPolitics: Anti-abortion activist Teresa Manning resigns from Health and Human Services Department post, a spokesman tells CNN https:…",Sat Jan 13 17:32:49 +0000 2018,-0.3182,0.0,0.881,0.119
+41,CNN Breaking News,Trump takes to Twitter to blame Democrats for stalled immigration negotiations days after his vulgar remark about A… https://t.co/thbL43JgSu,Sat Jan 13 16:37:03 +0000 2018,-0.4939,0.0,0.802,0.198
+42,CNN Breaking News,A federal judge has ordered hundreds of pages of documents unsealed in connection with the investigation of the Las… https://t.co/H4Pr60OSno,Sat Jan 13 05:08:25 +0000 2018,0.0,0.0,1.0,0.0
+43,CNN Breaking News,"RT @CNNMoney: Donald Trump in 2013 asked James O'Keefe, the controversial conservative filmmaker, if he could ""get inside"" Columbia Univers…",Sat Jan 13 02:05:14 +0000 2018,-0.2023,0.0,0.913,0.087
+44,CNN Breaking News,"President ""in excellent health,"" White House doctor says after Trump's first known medical checkup since taking off… https://t.co/JcdhaXic5I",Sat Jan 13 01:52:20 +0000 2018,0.5719,0.179,0.821,0.0
+45,CNN Breaking News,Kentucky becomes the first state to require many of its Medicaid recipients to work. https://t.co/IG9bit3EJZ https://t.co/RD8le0twcB,Sat Jan 13 01:03:26 +0000 2018,0.0,0.0,1.0,0.0
+46,CNN Breaking News,"President Trump’s longtime attorney denies that Trump had a sexual encounter with a porn star in 2006, following a… https://t.co/ZtE2Aearub",Sat Jan 13 00:13:06 +0000 2018,-0.4215,0.0,0.859,0.141
+47,CNN Breaking News,"More than 60,000 cases of the flu reported in the US this season, the CDC says, overwhelming ERs and leaving 20 chi… https://t.co/LIRPIPkSLE",Fri Jan 12 21:22:24 +0000 2018,-0.3818,0.0,0.894,0.106
+48,CNN Breaking News,Trump agrees to issue a waiver on key Iran sanctions but warns this is the last time he'll hold off on upending the… https://t.co/pN0CYT4wUE,Fri Jan 12 18:53:34 +0000 2018,-0.0516,0.058,0.875,0.067
+49,CNN Breaking News,"Trump signs MLK proclamation and ignores shouted questions: ""Mr. President, are you a racist?""… https://t.co/EvjsILJ9Ye",Fri Jan 12 17:03:32 +0000 2018,-0.2732,0.0,0.861,0.139
+50,CNN Breaking News,"A White House official says President Trump took a ""victory lap"" last night after his ""shithole"" remark, phoning ai… https://t.co/GaJ22eJCkM",Fri Jan 12 15:13:46 +0000 2018,0.0,0.0,1.0,0.0
+51,CNN Breaking News,"Democratic Sen. Dick Durbin confirms Trump made ""shithole"" remark at meeting, says President's denials are not true… https://t.co/ylia6D5TVY",Fri Jan 12 15:07:52 +0000 2018,-0.5106,0.0,0.837,0.163
+52,CNN Breaking News,RT @CNNMoney: Dow pops 100 points to another record. Nasdaq opens flat. Facebook slumps 5% on plan to overhaul newsfeed. https://t.co/A9OlU…,Fri Jan 12 14:43:02 +0000 2018,0.0,0.0,1.0,0.0
+53,CNN Breaking News,"Trump denies making ""shithole countries"" remark during immigration meeting, says he was tough but that was ""not the… https://t.co/Azy0e7B24r",Fri Jan 12 13:09:24 +0000 2018,-0.2846,0.0,0.844,0.156
+54,CNN Breaking News,"President Trump cancels his visit to London to open the new US embassy, claiming it was a ""bad deal"" made by the Ob… https://t.co/bTOk74E146",Fri Jan 12 06:58:28 +0000 2018,-0.6597,0.0,0.795,0.205
+55,CNN Breaking News,"President Trump expressed frustration in a bipartisan immigration meeting, asking why the US wanted to take in immi… https://t.co/AQpoW8S7j2",Thu Jan 11 22:37:15 +0000 2018,-0.4767,0.0,0.846,0.154
+56,CNN Breaking News,"Sam's Club closes multiple locations without warning on the same day its owner, Walmart, drew praise from the White… https://t.co/MLSoRCMTSV",Thu Jan 11 21:37:31 +0000 2018,0.6844,0.238,0.762,0.0
+57,CNN Breaking News,"RT @CNNPolitics: President Trump’s allies are warning him not to sit for an interview with special counsel Robert Mueller, but Trump has to…",Thu Jan 11 21:35:30 +0000 2018,0.0387,0.075,0.855,0.069
+58,CNN Breaking News,RT @CNNMoney: The market rally is back on track. Dow climbs 206 points to another record. Small cap Russell 2000 soars 1.7%. https://t.co/A…,Thu Jan 11 21:35:13 +0000 2018,0.0,0.0,1.0,0.0
+59,CNN Breaking News,RT @CNNPolitics: President Trump rejects a bipartisan immigration proposal at a White House meeting https://t.co/RNWCsA1TUu https://t.co/3I…,Thu Jan 11 21:34:54 +0000 2018,-0.4939,0.0,0.802,0.198
+60,CNN Breaking News,RT @CNNPolitics: President Trump's FISA tweets throw Washington into chaos https://t.co/WiSk6WwgkJ https://t.co/rLQTeMRWmY,Thu Jan 11 17:03:55 +0000 2018,-0.5719,0.0,0.748,0.252
+61,CNN Breaking News,"House passes legislation reauthorizing FISA, despite Trump's tweets criticizing the government's surveillance progr… https://t.co/RqYnWSyRzi",Thu Jan 11 16:49:31 +0000 2018,0.2755,0.14,0.86,0.0
+62,CNN Breaking News,"RT @CNNMoney: New guidelines mean states could require non-disabled, working age Medicaid recipients to work, volunteer, go to school or en…",Thu Jan 11 12:46:06 +0000 2018,0.0,0.0,1.0,0.0
+63,CNN Breaking News,"Rescue workers search for those missing after tons of mud, trees and boulders swept away homes in Southern Californ… https://t.co/jx84E18Fcz",Thu Jan 11 08:43:03 +0000 2018,0.2732,0.14,0.766,0.094
+64,CNN Breaking News,An Ohio man has been charged with allegedly creating malware to spy on people for more than 13 years… https://t.co/SbFSlHazHT,Wed Jan 10 22:31:39 +0000 2018,0.1027,0.1,0.818,0.082
+65,CNN Breaking News,RT @CNNMoney: S&amp;P 500 and Nasdaq suffer first losses of 2018. United soars 7% on upbeat outlook. GM dips 2% on NAFTA jitters. https://t.co/…,Wed Jan 10 21:05:45 +0000 2018,-0.5267,0.093,0.7,0.207
+66,CNN Breaking News,"Trump told South Korea's Moon Jae-In he's open to talks with the North if the timing and circumstances are right, T… https://t.co/9V1DPYqfQN",Wed Jan 10 17:55:17 +0000 2018,0.0,0.0,1.0,0.0
+67,CNN Breaking News,"California Republican Rep. Darrell Issa, best known for his attack-dog style, won't run for re-election… https://t.co/lL9THdKkQP",Wed Jan 10 16:37:32 +0000 2018,0.6369,0.219,0.781,0.0
+68,CNN Breaking News,RT @CNNPolitics: A retired ambassador to Libya has been tapped to lead the State Department's Accountability Review Board examining the att…,Wed Jan 10 16:36:44 +0000 2018,0.0,0.0,1.0,0.0
+69,CNN Breaking News,RT @CNNMoney: Stocks pull back from record highs. Dow opens down 67 points. Nasdaq falls 0.5%. https://t.co/A9OlUXl3FI,Wed Jan 10 14:42:19 +0000 2018,0.0,0.0,1.0,0.0
+70,CNN Breaking News,A federal judge in California temporarily blocked the Trump administration's efforts to end the Deferred Action for… https://t.co/RPik2LTndx,Wed Jan 10 05:07:08 +0000 2018,-0.2732,0.0,0.884,0.116
+71,CNN Breaking News,US Pacific Tsunami Warning Center said tsunami waves were possible for several countries in Caribbean and Central A… https://t.co/vm3MyayX9L,Wed Jan 10 04:24:49 +0000 2018,-0.34,0.0,0.882,0.118
+72,CNN Breaking News,"RT @CNNPolitics: President Trump's lawyer files lawsuits against BuzzFeed, Fusion GPS over dossier https://t.co/cCPcqaSHLq https://t.co/b5t…",Wed Jan 10 04:23:39 +0000 2018,-0.1531,0.0,0.897,0.103
+73,CNN Breaking News,"RT @CNNPolitics: Democrats seek to avoid DACA's isolation in budget negotiations
+https://t.co/Ovgn692dip https://t.co/fYjvN0O7Sb",Wed Jan 10 04:23:35 +0000 2018,-0.5994,0.0,0.692,0.308
+74,CNN Breaking News,North Carolina will have to redraw its congressional districts after federal judges ruled the map unconstitutionall… https://t.co/GAZDppWUuW,Wed Jan 10 01:36:11 +0000 2018,0.0,0.0,1.0,0.0
+75,CNN Breaking News,"The Trump administration says it won't seek oil and gas drilling off the Florida coast, a shift from last week's mo… https://t.co/SHjkvqIx8Q",Wed Jan 10 01:20:57 +0000 2018,0.0,0.0,1.0,0.0
+76,CNN Breaking News,"A white man involved with neo-Nazi groups has been charged with terrorism for attempting to wreck an Amtrak train,… https://t.co/aaXNK1nUuI",Wed Jan 10 00:28:12 +0000 2018,-0.8519,0.0,0.632,0.368
+77,CNN Breaking News,At least eight people are dead in the Southern California mudslides brought on by heavy rain https://t.co/SXeRAywxBZ https://t.co/J1I2Hcs1qj,Tue Jan 09 22:40:58 +0000 2018,-0.6486,0.0,0.798,0.202
+78,CNN Breaking News,Steve Bannon is stepping down from Breitbart News after coming under fire for comments he made in an explosive book… https://t.co/zHFGTukcu2,Tue Jan 09 21:26:17 +0000 2018,-0.34,0.0,0.893,0.107
+79,CNN Breaking News,"RT @CNNMoney: S&amp;P 500, Nasdaq notch all-time highs for 6th day in a row. Dow jumps 103 points to a record. Oil hits 3-year high. https://t.…",Tue Jan 09 21:08:21 +0000 2018,0.0,0.0,1.0,0.0
+80,CNN Breaking News,"RT @CNNPolitics: Trump says he wants bipartisan immigration reform: ""I feel having the Democrats in with us is absolutely vital ... it shou…",Tue Jan 09 17:58:59 +0000 2018,0.3597,0.102,0.898,0.0
+81,CNN Breaking News,"RT @CNNPolitics: Joe Arpaio, the controversial sheriff pardoned by President Trump, enters the Arizona Senate race https://t.co/Mt5fGFGmaV…",Tue Jan 09 16:55:00 +0000 2018,0.0258,0.102,0.802,0.096
+82,CNN Breaking News,"Firefighters rescue at least eight people as heavy rains trigger mudslides in Montecito, California. Follow live up… https://t.co/pSCS2YpaLJ",Tue Jan 09 16:54:45 +0000 2018,0.5106,0.163,0.837,0.0
+83,CNN Breaking News,People are being rescued from buildings and cars as heavy rain triggers mudslides in areas charred by wildfires. Pa… https://t.co/PPKiejPvNx,Tue Jan 09 14:57:01 +0000 2018,0.4215,0.128,0.872,0.0
+84,CNN Breaking News,"Best friend Gayle King addresses speculation that Oprah might run for President, says, ""I do think she's intrigued… https://t.co/6vipTes3Ag",Tue Jan 09 14:34:47 +0000 2018,0.8126,0.303,0.697,0.0
+85,CNN Breaking News,"Iranian lawmaker says roughly 3,700 people were arrested during anti-government protests, far higher than the 450 o… https://t.co/Y5XJeCt34E",Tue Jan 09 13:59:33 +0000 2018,-0.6124,0.0,0.762,0.238
+86,CNN Breaking News,"RT @CNN: With a net worth of more than $105 billion, Jeff Bezos is now the richest person in history https://t.co/vdKtLwkBUE https://t.co/x…",Tue Jan 09 13:08:31 +0000 2018,0.6486,0.218,0.782,0.0
+87,CNN Breaking News,Alabama beats Georgia to capture the 5th college football national title in 9 seasons for the Crimson Tide and Coac… https://t.co/Kekz8QCe7L,Tue Jan 09 05:26:02 +0000 2018,0.0,0.0,1.0,0.0
+88,CNN Breaking News,"North Korea will send a team to next month’s Winter Olympics, a South Korean official says https://t.co/HAfQEA4HUm",Tue Jan 09 04:40:41 +0000 2018,0.0,0.0,1.0,0.0
+89,CNN Breaking News,Federal regulators have rejected a controversial Trump administration proposal that would have propped up slumping… https://t.co/FOqXM6XvPC,Mon Jan 08 22:54:22 +0000 2018,-0.6249,0.0,0.718,0.282
+90,CNN Breaking News,"The US has the worst overall child mortality rate compared with those of 19 other wealthy nations, a study finds… https://t.co/VbQAHxoYia",Mon Jan 08 22:24:42 +0000 2018,-0.3818,0.102,0.732,0.167
+91,CNN Breaking News,Trump's lawyers have been preparing for months in anticipation that special counsel Robert Mueller will ask to inte… https://t.co/cYXAS1tNRz,Mon Jan 08 21:23:45 +0000 2018,0.4767,0.194,0.806,0.0
+92,CNN Breaking News,RT @CNNPolitics: Exclusive: A bipartisan pair of lawmakers unveil a DACA plan https://t.co/lRmpK6vSlE https://t.co/9ej3hO3MUl,Mon Jan 08 21:12:53 +0000 2018,0.128,0.12,0.88,0.0
+93,CNN Breaking News,"RT @CNNMoney: S&amp;P 500 and Nasdaq close at record highs for fifth day in a row. Dow retreats slightly, ending win streak. https://t.co/A9OlU…",Mon Jan 08 21:12:31 +0000 2018,0.5456,0.144,0.856,0.0
+94,CNN Breaking News,RT @CNNPolitics: A conservative watchdog group led by Steve Bannon tried to discredit Donald Trump in the early stages of the 2016 GOP pres…,Mon Jan 08 20:09:24 +0000 2018,0.0,0.0,1.0,0.0
+95,CNN Breaking News,"Mitt Romney had prostate cancer surgery last summer and the prognosis is good, a source says https://t.co/9lnkQy1YSd https://t.co/uJlXXaCIYS",Mon Jan 08 19:36:38 +0000 2018,-0.3612,0.13,0.673,0.197
+96,CNN Breaking News,64 people presumed dead off the coast of Libya in first reported Mediterranean shipwreck to claim migrant lives in… https://t.co/f9BxwhKHWt,Mon Jan 08 17:59:48 +0000 2018,-0.6486,0.0,0.815,0.185
+97,CNN Breaking News,"Trump to end protections for some immigrants from El Salvador, a source says. More than 200,000 people in the US si… https://t.co/cxSQjw38Wx",Mon Jan 08 16:20:19 +0000 2018,0.0,0.0,1.0,0.0
+98,CNN Breaking News,"Oprah Winfrey is “actively thinking” about running for President in 2020, two close friends say… https://t.co/TiRfDMHkKZ",Mon Jan 08 15:06:57 +0000 2018,0.4767,0.171,0.829,0.0
+99,CNN Breaking News,"A firefighter and an engineer suffer minor injuries after small fire breaks out on roof of Trump Tower, FDNY says… https://t.co/B3npAqXPYC",Mon Jan 08 14:29:43 +0000 2018,-0.7096,0.0,0.753,0.247
+0,Fox News,".@POTUS says Dems don't want to make DACA deal, adds he's 'not a racist' https://t.co/fazwUGaT6N",Mon Jan 15 01:29:05 +0000 2018,0.4585,0.196,0.73,0.074
+1,Fox News,Jim Carrey and other stars share updates from Hawaii following ballistic-missile false alarm https://t.co/KSNTUmFT0R,Mon Jan 15 01:28:10 +0000 2018,-0.0516,0.133,0.723,0.145
+2,Fox News,"Civil Rights Attorney Leo Terrell: ""@Oprah has likability. In the last 24 hours, Donald #Trump doesn't have that. T… https://t.co/bLskyWYGO7",Mon Jan 15 01:27:33 +0000 2018,0.0,0.0,1.0,0.0
+3,Fox News,"OPINION: Baby steps, America. The 'but so-and-so did it first!' defense is for toddlers, not national discourse (vi… https://t.co/p7SeibPV3G",Mon Jan 15 01:19:16 +0000 2018,0.2598,0.102,0.898,0.0
+4,Fox News,Canada's Trudeau: 'Removing Access to Abortion' Not In Line With Society https://t.co/IluBxuncVS,Mon Jan 15 01:15:05 +0000 2018,0.0,0.0,1.0,0.0
+5,Fox News,University to review appearance by @benshapiro https://t.co/yCReTZKZWn,Mon Jan 15 01:12:35 +0000 2018,0.0,0.0,1.0,0.0
+6,Fox News,".@GaryKaltbaum: ""This whole tax thing has been not just a home run, but a grand slam."" https://t.co/VDfTaaDh50 https://t.co/LGawc1qnBI",Mon Jan 15 01:07:46 +0000 2018,0.6124,0.211,0.789,0.0
+7,Fox News,Casino boat catches fire off Florida with 50 passengers aboard https://t.co/cvTRuWVaoe,Mon Jan 15 01:03:43 +0000 2018,-0.3182,0.088,0.72,0.192
+8,Fox News,"Moments ago, President @realDonaldTrump answered reporter questions about DACA as a government shutdown looms.… https://t.co/fXSBPIvUjU",Mon Jan 15 00:51:50 +0000 2018,0.0,0.0,1.0,0.0
+9,Fox News,"Colorado nurse, 20, dies in bungee jumping accident https://t.co/IJQiEwGB96 #FoxNewsUS",Mon Jan 15 00:35:00 +0000 2018,-0.4767,0.0,0.744,0.256
+10,Fox News,"RT @EricShawnTV: ""We thank President Trump,""say #IranProtesters, who praise the American public for their support.  Here's my exclusive wit…",Mon Jan 15 00:22:20 +0000 2018,0.8519,0.407,0.593,0.0
+11,Fox News,".@POTUS: ""The folks from DACA should know the Democrats are the ones that aren't going to make a deal.""… https://t.co/HdDOBtYCWc",Mon Jan 15 00:21:19 +0000 2018,0.0,0.0,1.0,0.0
+12,Fox News,".@POTUS: ""We're ready, willing and able to make a deal on DACA."" https://t.co/DAb1fmVnvw",Mon Jan 15 00:19:40 +0000 2018,0.3612,0.185,0.815,0.0
+13,Fox News,"Defense Attorney Robert Schalk on possible #Trump interview with Mueller: ""[@POTUS] could be opening himself up...t… https://t.co/5FHthYxRfG",Mon Jan 15 00:09:14 +0000 2018,0.128,0.086,0.914,0.0
+14,Fox News,".@POTUS criticizes Democrats over DACA as government shutdown looms, Phil Keating reports. https://t.co/JejH8Wa6XM https://t.co/nyNRSCFSLt",Mon Jan 15 00:08:28 +0000 2018,-0.4588,0.0,0.75,0.25
+15,Fox News,Eliza Dushku: 'True Lies' stunt coordinator Joel Kramer molested me when I was 12 https://t.co/suuRJ89MXV,Sun Jan 14 23:58:50 +0000 2018,-0.4404,0.144,0.564,0.292
+16,Fox News,".@gen_jackkeane on talks between North Korea and South Korea: ""We need to have some skepticism about these negotiat… https://t.co/3xGbT3o8CW",Sun Jan 14 23:56:22 +0000 2018,-0.25,0.0,0.9,0.1
+17,Fox News,"RT @FoxNewsResearch: World’s Largest Active Armed Forces:
+1. China: 2.3 million
+2. India: 1.4 million
+3. U.S.: 1.3 million
+4. North Korea:…",Sun Jan 14 23:53:24 +0000 2018,0.4019,0.114,0.886,0.0
+18,Fox News,Liam Neeson believes gender wage gap is 'disgraceful' but will not take a pay cut https://t.co/oFDyM5O7vD,Sun Jan 14 23:50:40 +0000 2018,0.395,0.22,0.78,0.0
+19,Fox News,".@gen_jackkeane on Hawaii's false missile threat: ""They made a mistake here and they [have] a bad system. They [hav… https://t.co/nCTNAdtS6m",Sun Jan 14 23:50:40 +0000 2018,-0.8519,0.0,0.617,0.383
+20,Fox News,".@POTUS says Dems don't want to make DACA deal, adds he's 'not a racist' https://t.co/fazwUGaT6N",Mon Jan 15 01:29:05 +0000 2018,0.4585,0.196,0.73,0.074
+21,Fox News,Jim Carrey and other stars share updates from Hawaii following ballistic-missile false alarm https://t.co/KSNTUmFT0R,Mon Jan 15 01:28:10 +0000 2018,-0.0516,0.133,0.723,0.145
+22,Fox News,"Civil Rights Attorney Leo Terrell: ""@Oprah has likability. In the last 24 hours, Donald #Trump doesn't have that. T… https://t.co/bLskyWYGO7",Mon Jan 15 01:27:33 +0000 2018,0.0,0.0,1.0,0.0
+23,Fox News,"OPINION: Baby steps, America. The 'but so-and-so did it first!' defense is for toddlers, not national discourse (vi… https://t.co/p7SeibPV3G",Mon Jan 15 01:19:16 +0000 2018,0.2598,0.102,0.898,0.0
+24,Fox News,Canada's Trudeau: 'Removing Access to Abortion' Not In Line With Society https://t.co/IluBxuncVS,Mon Jan 15 01:15:05 +0000 2018,0.0,0.0,1.0,0.0
+25,Fox News,University to review appearance by @benshapiro https://t.co/yCReTZKZWn,Mon Jan 15 01:12:35 +0000 2018,0.0,0.0,1.0,0.0
+26,Fox News,".@GaryKaltbaum: ""This whole tax thing has been not just a home run, but a grand slam."" https://t.co/VDfTaaDh50 https://t.co/LGawc1qnBI",Mon Jan 15 01:07:46 +0000 2018,0.6124,0.211,0.789,0.0
+27,Fox News,Casino boat catches fire off Florida with 50 passengers aboard https://t.co/cvTRuWVaoe,Mon Jan 15 01:03:43 +0000 2018,-0.3182,0.088,0.72,0.192
+28,Fox News,"Moments ago, President @realDonaldTrump answered reporter questions about DACA as a government shutdown looms.… https://t.co/fXSBPIvUjU",Mon Jan 15 00:51:50 +0000 2018,0.0,0.0,1.0,0.0
+29,Fox News,"Colorado nurse, 20, dies in bungee jumping accident https://t.co/IJQiEwGB96 #FoxNewsUS",Mon Jan 15 00:35:00 +0000 2018,-0.4767,0.0,0.744,0.256
+30,Fox News,"RT @EricShawnTV: ""We thank President Trump,""say #IranProtesters, who praise the American public for their support.  Here's my exclusive wit…",Mon Jan 15 00:22:20 +0000 2018,0.8519,0.407,0.593,0.0
+31,Fox News,".@POTUS: ""The folks from DACA should know the Democrats are the ones that aren't going to make a deal.""… https://t.co/HdDOBtYCWc",Mon Jan 15 00:21:19 +0000 2018,0.0,0.0,1.0,0.0
+32,Fox News,".@POTUS: ""We're ready, willing and able to make a deal on DACA."" https://t.co/DAb1fmVnvw",Mon Jan 15 00:19:40 +0000 2018,0.3612,0.185,0.815,0.0
+33,Fox News,"Defense Attorney Robert Schalk on possible #Trump interview with Mueller: ""[@POTUS] could be opening himself up...t… https://t.co/5FHthYxRfG",Mon Jan 15 00:09:14 +0000 2018,0.128,0.086,0.914,0.0
+34,Fox News,".@POTUS criticizes Democrats over DACA as government shutdown looms, Phil Keating reports. https://t.co/JejH8Wa6XM https://t.co/nyNRSCFSLt",Mon Jan 15 00:08:28 +0000 2018,-0.4588,0.0,0.75,0.25
+35,Fox News,Eliza Dushku: 'True Lies' stunt coordinator Joel Kramer molested me when I was 12 https://t.co/suuRJ89MXV,Sun Jan 14 23:58:50 +0000 2018,-0.4404,0.144,0.564,0.292
+36,Fox News,".@gen_jackkeane on talks between North Korea and South Korea: ""We need to have some skepticism about these negotiat… https://t.co/3xGbT3o8CW",Sun Jan 14 23:56:22 +0000 2018,-0.25,0.0,0.9,0.1
+37,Fox News,"RT @FoxNewsResearch: World’s Largest Active Armed Forces:
+1. China: 2.3 million
+2. India: 1.4 million
+3. U.S.: 1.3 million
+4. North Korea:…",Sun Jan 14 23:53:24 +0000 2018,0.4019,0.114,0.886,0.0
+38,Fox News,Liam Neeson believes gender wage gap is 'disgraceful' but will not take a pay cut https://t.co/oFDyM5O7vD,Sun Jan 14 23:50:40 +0000 2018,0.395,0.22,0.78,0.0
+39,Fox News,".@gen_jackkeane on Hawaii's false missile threat: ""They made a mistake here and they [have] a bad system. They [hav… https://t.co/nCTNAdtS6m",Sun Jan 14 23:50:40 +0000 2018,-0.8519,0.0,0.617,0.383
+40,Fox News,".@gen_jackkeane: ""We have the capacity to track any missile launch, any place in the world, through our satellites… https://t.co/j6IA3W2r5f",Sun Jan 14 23:46:37 +0000 2018,0.0,0.0,1.0,0.0
+41,Fox News,OPINION: Want to live longer? The US system of free-market investment in cures is the answer (via @FoxNewsOpinion) https://t.co/mbJUyAUvyw,Sun Jan 14 23:43:34 +0000 2018,0.0772,0.067,0.933,0.0
+42,Fox News,Casino boat catches fire off Florida with 50 passengers aboard; 1 reported missing https://t.co/yWlg0XX9j5,Sun Jan 14 23:36:50 +0000 2018,-0.5423,0.07,0.637,0.293
+43,Fox News,"Anti-government protesters in Iran thank President #Trump for his support, @EricShawnTV reports.… https://t.co/Fdk9huX1ZA",Sun Jan 14 23:35:20 +0000 2018,0.5106,0.304,0.585,0.111
+44,Fox News,Hawaii's false missile threat: Worker 'feels terrible' after pushing the wrong button https://t.co/HW0WY2Eyhm,Sun Jan 14 23:31:25 +0000 2018,-0.8625,0.0,0.51,0.49
+45,Fox News,".@akarl_smith: ""Immigration is really #Trump's signature issue, so any acceptance by him on a bipartisan deal...he… https://t.co/wBeWtP3dDm",Sun Jan 14 23:28:59 +0000 2018,0.507,0.179,0.821,0.0
+46,Fox News,Hawaii false alarm raises concerns over U.S. preparedness in case of a real threat https://t.co/qJu9Jmyz66 https://t.co/oZ634ELLij,Sun Jan 14 23:17:32 +0000 2018,-0.7003,0.0,0.691,0.309
+47,Fox News,".@VP laid a wreath at the Martin Luther King, Jr. National Memorial with Second Lady Karen Pence ahead of #MLK Day. https://t.co/OS7FHGrpVf",Sun Jan 14 23:14:12 +0000 2018,0.0,0.0,1.0,0.0
+48,Fox News,"Actress Ashley Judd commends Franco's 'culpability,' calls it 'terrific' https://t.co/7aiO6BgTKx",Sun Jan 14 23:11:39 +0000 2018,0.0,0.0,1.0,0.0
+49,Fox News,"'Deplorable' NYU prof sues university, colleagues for defamation https://t.co/zErxOgzLiI",Sun Jan 14 22:52:01 +0000 2018,0.0,0.0,1.0,0.0
+50,Fox News,"2 women arrested after Texas apartment meth lab explodes with child inside, police say https://t.co/m3ieBUo0h2",Sun Jan 14 22:42:31 +0000 2018,-0.4767,0.0,0.807,0.193
+51,Fox News,".@RajShah45: ""@POTUS wants to see real border security. He wants to see movement on chain migration and ending the… https://t.co/Po6mwXrx8q",Sun Jan 14 22:34:54 +0000 2018,0.34,0.112,0.888,0.0
+52,Fox News,RT @EricShawnTV: I anchor @FoxNews at 6pm ET and again tomorrow morning on @AmericaNewsroom. Today #Hawaii Rep. @TulsiGabbard said that @PO…,Sun Jan 14 22:34:14 +0000 2018,0.0,0.0,1.0,0.0
+53,Fox News,UK politician's model girlfriend suspended after reported 'vile' Meghan Markle remarks https://t.co/RRTWldTttq,Sun Jan 14 22:32:33 +0000 2018,-0.4767,0.0,0.78,0.22
+54,Fox News,Taylor Swift told to beware gun-seeking 'boyfriend' by police officers https://t.co/2XEgKsRb3X,Sun Jan 14 22:28:21 +0000 2018,0.2023,0.153,0.847,0.0
+55,Fox News,Dow milestones since election. https://t.co/xei3jV9rQD,Sun Jan 14 22:28:15 +0000 2018,0.0,0.0,1.0,0.0
+56,Fox News,"On @foxandfriends, @Varneyco praised President @realDonaldTrump's economic record in comparison to his predecessor'… https://t.co/MIaIBTGk68",Sun Jan 14 22:24:40 +0000 2018,0.4939,0.198,0.802,0.0
+57,Fox News,".@GaryKaltbaum: ""This whole tax thing has been not just a home run, but a grand slam."" https://t.co/qDi6Jad4Zt",Sun Jan 14 22:23:38 +0000 2018,0.6124,0.222,0.778,0.0
+58,Fox News,".@DiamondandSilk: ""@realDonaldTrump is not a racist. He's a realist. And the only color he sees is green and he wan… https://t.co/TiHQBgVQ6G",Sun Jan 14 22:21:04 +0000 2018,0.4973,0.152,0.848,0.0
+59,Fox News,".@PeteHegseth: ""The Left loves to point at Americans who they don't like and say they're unacceptable. But when [… https://t.co/AMd9vq2mDx",Sun Jan 14 22:15:40 +0000 2018,-0.1053,0.143,0.659,0.198
+60,Fox News,.@dBongino: “I and many other people I’m communicating with on this collusion nonsense… really believe that this wa… https://t.co/orW0zrnlD4,Sun Jan 14 22:15:01 +0000 2018,0.0,0.0,1.0,0.0
+61,Fox News,"Dennis Rodman arrested, charged with DUI https://t.co/RNZFTxWBWF",Sun Jan 14 22:14:25 +0000 2018,-0.5994,0.0,0.505,0.495
+62,Fox News,"""You can either send money to Washington or you can give it to your employees. The employees earned the money. Wash… https://t.co/yjRzT6ZYvA",Sun Jan 14 22:14:00 +0000 2018,0.0,0.0,1.0,0.0
+63,Fox News,"Chelsea Manning confirms Senate bid, says 'Yup, we're running' https://t.co/xWWIIbaMSp https://t.co/hZMkPwwurB",Sun Jan 14 22:12:39 +0000 2018,0.0,0.0,1.0,0.0
+64,Fox News,"Drugged driver crashes car into second story of California building, officials say https://t.co/QcizFnTptn",Sun Jan 14 22:12:14 +0000 2018,0.0,0.0,1.0,0.0
+65,Fox News,.@BillClinton Denies Foundation Paid for Chelsea Clinton's Wedding https://t.co/gcLBTXmtvh https://t.co/j38S8Xt8dZ,Sun Jan 14 22:05:06 +0000 2018,-0.4215,0.0,0.763,0.237
+66,Fox News,"Ambassador James Jeffrey: ""We are not well-prepared for any emergency."" https://t.co/NuTPgSKXA5 https://t.co/KUsXYNJIOd",Sun Jan 14 22:04:08 +0000 2018,0.0,0.0,1.0,0.0
+67,Fox News,Hawaii's false missile threat: Worker 'feels terrible' after pushing the wrong button https://t.co/le9KohbiTw,Sun Jan 14 21:59:04 +0000 2018,-0.8625,0.0,0.51,0.49
+68,Fox News,Hawaii false alarm prompts plans for FCC investigation https://t.co/NuTPgSKXA5 https://t.co/XFlCQykalI,Sun Jan 14 21:56:32 +0000 2018,-0.34,0.0,0.789,0.211
+69,Fox News,".@AlvedaCKing: ""People were saying that President Trump has called Haiti and Africa a bad word. No, he was referrin… https://t.co/JV76scGt5j",Sun Jan 14 21:56:04 +0000 2018,-0.6908,0.0,0.749,0.251
+70,Fox News,"Porn star Olivia Nova’s friend says she ‘wanted to change her lifestyle' before her death, report says https://t.co/8T8hEHYkFX",Sun Jan 14 21:54:36 +0000 2018,-0.1779,0.139,0.693,0.169
+71,Fox News,".@SecNielsen: ""I don't recall [President #Trump] saying that exact phrase."" https://t.co/7ACgdZGkmc https://t.co/X1GW8HLeiE",Sun Jan 14 21:50:03 +0000 2018,0.0,0.0,1.0,0.0
+72,Fox News,20 people killed in California's deadly mudslides https://t.co/ljWdYCcKUA https://t.co/QwfH4x0pA4,Sun Jan 14 21:48:14 +0000 2018,-0.6705,0.0,0.64,0.36
+73,Fox News,"Amb. James Jeffrey on North Korea: ""All of the good emergency preparedness training and exercises in the world will… https://t.co/zhjqnjyj5M",Sun Jan 14 21:47:53 +0000 2018,0.0772,0.123,0.766,0.111
+74,Fox News,".@MarkSKrikorian: ""The average illegal immigrant costs taxpayers, over his lifetime... $75,000."" https://t.co/vQpKXyj5c0",Sun Jan 14 21:45:02 +0000 2018,-0.5574,0.0,0.753,0.247
+75,Fox News,".@RepDeSantis: ""Did the FBI know that [the dossier] was funded by the Democratic Party and @HillaryClinton?"" https://t.co/d9gWefblUq",Sun Jan 14 21:43:27 +0000 2018,0.4019,0.144,0.856,0.0
+76,Fox News,"President #Trump: DACA is ""probably dead"" https://t.co/JejH8Wa6XM https://t.co/u6heNrMsTM",Sun Jan 14 21:43:21 +0000 2018,-0.6486,0.0,0.619,0.381
+77,Fox News,Israeli army destroys Hamas tunnel on video https://t.co/OTdbX0vB77,Sun Jan 14 21:39:35 +0000 2018,-0.5574,0.0,0.66,0.34
+78,Fox News,"Jeff Mason on border security: ""Many [Democrats] will say they're not opposed to having increased security, but the… https://t.co/GfZSR9QQWP",Sun Jan 14 21:33:40 +0000 2018,0.4497,0.236,0.764,0.0
+79,Fox News,".@chuckwoolery: ""Trump says he didn't say it, so I'm going to go with Trump. I don't think he said it.""… https://t.co/EY0xswk5kT",Sun Jan 14 21:29:15 +0000 2018,0.0,0.0,1.0,0.0
+80,Fox News,"Pre-Trump DACA rules being reinstated, US agency says      https://t.co/BIFt0YDCTC",Sun Jan 14 21:26:52 +0000 2018,0.0,0.0,1.0,0.0
+81,Fox News,".@AllysiaFinley: ""[@Oprah's] almost another #Obama, she can rise above the animosity."" https://t.co/m4OUdqZ2fc… https://t.co/za0DXUhay5",Sun Jan 14 21:26:43 +0000 2018,0.0,0.0,1.0,0.0
+82,Fox News,".@KimStrassel: ""One of the biggest criticisms of @realDonaldTrump is that he doesn't necessarily have a lot of poli… https://t.co/lS3MbTvoVH",Sun Jan 14 21:18:55 +0000 2018,-0.2263,0.0,0.899,0.101
+83,Fox News,".@davidwebbshow: ""Democrats are hypocrites. They voted for stronger border security, they voted for physical barrie… https://t.co/Br9V1UWnCV",Sun Jan 14 21:16:04 +0000 2018,0.6124,0.263,0.737,0.0
+84,Fox News,"Father, 30, identified as 20th California mudslides victim https://t.co/Fum6WUglJh",Sun Jan 14 21:13:03 +0000 2018,-0.2732,0.0,0.792,0.208
+85,Fox News,".@KimStrassel: [President #Trump] did look as though he was competent, sitting there leading negotiations. The Demo… https://t.co/kYbc2bw9OX",Sun Jan 14 21:06:38 +0000 2018,0.3182,0.126,0.874,0.0
+86,Fox News,".@MichaelRCaputo: “There were hundreds, if not just over a thousand people, who were unmasked for what appears to b… https://t.co/cUw0GkMGme",Sun Jan 14 21:06:34 +0000 2018,0.0,0.0,1.0,0.0
+87,Fox News,JANUARY 20th: @TeamCavuto is LIVE in Washington for 2 hours - Don't miss #Cavuto Live every Saturday from 10a to 12… https://t.co/k9ABONila3,Sun Jan 14 21:05:06 +0000 2018,0.1139,0.071,0.929,0.0
+88,Fox News,".@DanHenninger on calls to invoke the 25th Amendment: ""It's a fantasy. It's ludicrous. It's absurd. It's pointless… https://t.co/s0C4cTgDdf",Sun Jan 14 21:00:13 +0000 2018,-0.3612,0.0,0.865,0.135
+89,Fox News,"Bill Murray Plays Bannon as SNL Lampoons Joe, Mika and Michael Wolff  https://t.co/QMeQb7GEs7",Sun Jan 14 20:59:37 +0000 2018,0.25,0.143,0.857,0.0
+90,Fox News,"Friend arrested in UPenn student's death made disturbing comments online, acted nervous during arrest, report says https://t.co/nTDgt9ZTex",Sun Jan 14 20:58:10 +0000 2018,-0.891,0.11,0.379,0.51
+91,Fox News,".@KimStrassel on Oprah: ""She's not a risk-free candidate."" https://t.co/m4OUdqZ2fc https://t.co/FOaRhkd5bb",Sun Jan 14 20:57:47 +0000 2018,0.0,0.0,1.0,0.0
+92,Fox News,".@DanHenninger on @Oprah and the Democrats: ""Democratic Party professionals understand that the new base, which is… https://t.co/yFBC8WQoUA",Sun Jan 14 20:54:31 +0000 2018,0.4019,0.144,0.856,0.0
+93,Fox News,".@AllysiaFinley on potential bipartisan immigration deal: ""I think this is a big political winner for [@POTUS]. He… https://t.co/MB4d0ik1cv",Sun Jan 14 20:53:06 +0000 2018,0.5859,0.192,0.808,0.0
+94,Fox News,Indiana police officer saves choking toddler at Chick-fil-A; first work as paid cop https://t.co/LYNaxv7OHl,Sun Jan 14 20:51:33 +0000 2018,-0.4588,0.0,0.812,0.188
+95,Fox News,Transgender US military recruits enlist amid uncertainty - via @christocarbone https://t.co/RAahfsIEk5,Sun Jan 14 20:49:28 +0000 2018,-0.34,0.0,0.789,0.211
+96,Fox News,".@AmbJohnBolton: ""The president has to say that this deal remains a strategic mistake for the United States. It was… https://t.co/fWGttNfmlm",Sun Jan 14 20:41:04 +0000 2018,0.1027,0.126,0.766,0.108
+97,Fox News,"On ""Sunday Morning Futures,"" @Nissan Chairman Carlos Ghosn credited President @realDonaldTrump for America's boomin… https://t.co/63cgfPChgC",Sun Jan 14 20:37:21 +0000 2018,0.3612,0.152,0.848,0.0
+98,Fox News,".@ChelseaManning confirms Senate bid, says 'Yup, we're running' https://t.co/2MrfpHI31u",Sun Jan 14 20:37:15 +0000 2018,0.0,0.0,1.0,0.0
+99,Fox News,.@JustinTrudeau on Abortion: 'Restricting Women's Rights' Not In Line With Society https://t.co/IluBxuncVS https://t.co/9G6Gjpte9o,Sun Jan 14 20:35:04 +0000 2018,-0.3818,0.0,0.822,0.178
+0,The New York Times,"""You can't look down to read the speech, you have to take the speech up. Because if you did your neck would break.""… https://t.co/yan4tsOORc",Mon Jan 15 01:22:55 +0000 2018,0.0,0.0,1.0,0.0
+1,The New York Times,President Trump accused The Wall Street Journal of purposely misquoting him. The Journal responded by posting an au… https://t.co/HhluE5bIs5,Mon Jan 15 01:04:22 +0000 2018,-0.296,0.0,0.891,0.109
+2,The New York Times,Essay: The Poet of Light https://t.co/2vn1TEtBSN,Mon Jan 15 00:47:03 +0000 2018,0.0,0.0,1.0,0.0
+3,The New York Times,"""The risk of accidental nuclear war is not hypothetical — accidents have happened in the past, and humans will err… https://t.co/uetTDZsMuI",Mon Jan 15 00:41:27 +0000 2018,-0.6529,0.078,0.633,0.289
+4,The New York Times,Military Quietly Prepares for a Last Resort: War With North Korea https://t.co/wS6mIkgOHl,Mon Jan 15 00:24:05 +0000 2018,-0.5994,0.0,0.719,0.281
+5,The New York Times,"Missouri’s Combative Governor, Deep in Scandal, Puts on the Charm https://t.co/VFpPcoDS4l",Mon Jan 15 00:20:30 +0000 2018,-0.0516,0.185,0.616,0.199
+6,The New York Times,What does the false missile alert in Hawaii tell us about these government-run warning systems? That they need majo… https://t.co/UDeoSKSwC4,Mon Jan 15 00:18:48 +0000 2018,-0.0516,0.097,0.796,0.106
+7,The New York Times,A Republican senator who was at the White House immigration meeting said President Trump did not use a vulgarity to… https://t.co/rGfKAmEWbl,Mon Jan 15 00:00:20 +0000 2018,0.0,0.0,1.0,0.0
+8,The New York Times,Op-Ed Contributor: How the Other Half Lives in Iran https://t.co/X6m7ZC5XTP,Sun Jan 14 23:35:56 +0000 2018,0.0,0.0,1.0,0.0
+9,The New York Times,RT @nytopinion: President Trump's actions break with years of American nuclear policy. They also make it harder to persuade other nations t…,Sun Jan 14 23:30:28 +0000 2018,0.0,0.0,1.0,0.0
+10,The New York Times,Darren Criss Plays the Happy-Go-Lucky Killer in the Versace TV Drama https://t.co/PuXylc9q3N,Sun Jan 14 23:09:05 +0000 2018,-0.5106,0.123,0.613,0.264
+11,The New York Times,"In some countries, Facebook’s fiddling has magnified fake news https://t.co/Wve2NysTcL",Sun Jan 14 23:00:27 +0000 2018,-0.4767,0.0,0.744,0.256
+12,The New York Times,"Video: A plane trying to land in Turkey made a heart-stopping skid off a runway, ending up feet from the Black Sea https://t.co/AAIn0KNDLt",Sun Jan 14 22:33:02 +0000 2018,0.0,0.0,1.0,0.0
+13,The New York Times,"Jaguars 45, Steelers 42 | Divisional round: Jaguars Stun Steelers to Reach A.F.C. Championship Game https://t.co/Oib9KNWqS1",Sun Jan 14 22:06:15 +0000 2018,0.4588,0.235,0.765,0.0
+14,The New York Times,"In 1968, The Beatles trudged through dense forest to an ashram in India, where they spent weeks writing songs. The… https://t.co/4qS0piKNqA",Sun Jan 14 22:00:23 +0000 2018,0.0,0.0,1.0,0.0
+15,The New York Times,"""The risk of accidental nuclear war is not hypothetical — accidents have happened in the past, and humans will err… https://t.co/bdUCvziesG",Sun Jan 14 21:45:50 +0000 2018,-0.6529,0.078,0.633,0.289
+16,The New York Times,"""SNL"" took aim at ""Morning Joe,"" with Bill Murray as Stephen Bannon and Fred Armisen as Michael Wolff https://t.co/CEFnI9EeMJ",Sun Jan 14 21:28:39 +0000 2018,0.0,0.0,1.0,0.0
+17,The New York Times,"An unspectacular week at the box office led ""Jumanji: Welcome to the Jungle"" back to No. 1 https://t.co/X1g2x0lEiQ",Sun Jan 14 21:10:06 +0000 2018,0.2023,0.149,0.743,0.109
+18,The New York Times,"""It’s remarkable how well it has eased my twitchy phone checking."" A small group of people have turned their phone… https://t.co/VFsnM5ajbG",Sun Jan 14 21:00:04 +0000 2018,0.7845,0.317,0.683,0.0
+19,The New York Times,"He's being called ""frost boy."" But the image of an 8-year-old with icicles in his hair who trekked miles to school… https://t.co/jNM6ZqNlwb",Sun Jan 14 20:43:04 +0000 2018,0.0,0.0,1.0,0.0
+20,The New York Times,"""You can't look down to read the speech, you have to take the speech up. Because if you did your neck would break.""… https://t.co/yan4tsOORc",Mon Jan 15 01:22:55 +0000 2018,0.0,0.0,1.0,0.0
+21,The New York Times,President Trump accused The Wall Street Journal of purposely misquoting him. The Journal responded by posting an au… https://t.co/HhluE5bIs5,Mon Jan 15 01:04:22 +0000 2018,-0.296,0.0,0.891,0.109
+22,The New York Times,Essay: The Poet of Light https://t.co/2vn1TEtBSN,Mon Jan 15 00:47:03 +0000 2018,0.0,0.0,1.0,0.0
+23,The New York Times,"""The risk of accidental nuclear war is not hypothetical — accidents have happened in the past, and humans will err… https://t.co/uetTDZsMuI",Mon Jan 15 00:41:27 +0000 2018,-0.6529,0.078,0.633,0.289
+24,The New York Times,Military Quietly Prepares for a Last Resort: War With North Korea https://t.co/wS6mIkgOHl,Mon Jan 15 00:24:05 +0000 2018,-0.5994,0.0,0.719,0.281
+25,The New York Times,"Missouri’s Combative Governor, Deep in Scandal, Puts on the Charm https://t.co/VFpPcoDS4l",Mon Jan 15 00:20:30 +0000 2018,-0.0516,0.185,0.616,0.199
+26,The New York Times,What does the false missile alert in Hawaii tell us about these government-run warning systems? That they need majo… https://t.co/UDeoSKSwC4,Mon Jan 15 00:18:48 +0000 2018,-0.0516,0.097,0.796,0.106
+27,The New York Times,A Republican senator who was at the White House immigration meeting said President Trump did not use a vulgarity to… https://t.co/rGfKAmEWbl,Mon Jan 15 00:00:20 +0000 2018,0.0,0.0,1.0,0.0
+28,The New York Times,Op-Ed Contributor: How the Other Half Lives in Iran https://t.co/X6m7ZC5XTP,Sun Jan 14 23:35:56 +0000 2018,0.0,0.0,1.0,0.0
+29,The New York Times,RT @nytopinion: President Trump's actions break with years of American nuclear policy. They also make it harder to persuade other nations t…,Sun Jan 14 23:30:28 +0000 2018,0.0,0.0,1.0,0.0
+30,The New York Times,Darren Criss Plays the Happy-Go-Lucky Killer in the Versace TV Drama https://t.co/PuXylc9q3N,Sun Jan 14 23:09:05 +0000 2018,-0.5106,0.123,0.613,0.264
+31,The New York Times,"In some countries, Facebook’s fiddling has magnified fake news https://t.co/Wve2NysTcL",Sun Jan 14 23:00:27 +0000 2018,-0.4767,0.0,0.744,0.256
+32,The New York Times,"Video: A plane trying to land in Turkey made a heart-stopping skid off a runway, ending up feet from the Black Sea https://t.co/AAIn0KNDLt",Sun Jan 14 22:33:02 +0000 2018,0.0,0.0,1.0,0.0
+33,The New York Times,"Jaguars 45, Steelers 42 | Divisional round: Jaguars Stun Steelers to Reach A.F.C. Championship Game https://t.co/Oib9KNWqS1",Sun Jan 14 22:06:15 +0000 2018,0.4588,0.235,0.765,0.0
+34,The New York Times,"In 1968, The Beatles trudged through dense forest to an ashram in India, where they spent weeks writing songs. The… https://t.co/4qS0piKNqA",Sun Jan 14 22:00:23 +0000 2018,0.0,0.0,1.0,0.0
+35,The New York Times,"""The risk of accidental nuclear war is not hypothetical — accidents have happened in the past, and humans will err… https://t.co/bdUCvziesG",Sun Jan 14 21:45:50 +0000 2018,-0.6529,0.078,0.633,0.289
+36,The New York Times,"""SNL"" took aim at ""Morning Joe,"" with Bill Murray as Stephen Bannon and Fred Armisen as Michael Wolff https://t.co/CEFnI9EeMJ",Sun Jan 14 21:28:39 +0000 2018,0.0,0.0,1.0,0.0
+37,The New York Times,"An unspectacular week at the box office led ""Jumanji: Welcome to the Jungle"" back to No. 1 https://t.co/X1g2x0lEiQ",Sun Jan 14 21:10:06 +0000 2018,0.2023,0.149,0.743,0.109
+38,The New York Times,"""It’s remarkable how well it has eased my twitchy phone checking."" A small group of people have turned their phone… https://t.co/VFsnM5ajbG",Sun Jan 14 21:00:04 +0000 2018,0.7845,0.317,0.683,0.0
+39,The New York Times,"He's being called ""frost boy."" But the image of an 8-year-old with icicles in his hair who trekked miles to school… https://t.co/jNM6ZqNlwb",Sun Jan 14 20:43:04 +0000 2018,0.0,0.0,1.0,0.0
+40,The New York Times,"RT @nytopinion: Immigrants are more likely to be fleeing dysfunctions and prejudices than they are to be bringing them, writes @BretStephen…",Sun Jan 14 20:30:11 +0000 2018,-0.4215,0.0,0.877,0.123
+41,The New York Times,"She left France to join Islamic militants in Syria, and now with the collapse of ISIS wants to return. But can she? https://t.co/IRd249fhaT",Sun Jan 14 20:14:09 +0000 2018,-0.25,0.083,0.795,0.121
+42,The New York Times,"DACA participants can again apply for renewal of protection, the U.S. immigration agency said https://t.co/jBcr0G8Lfa",Sun Jan 14 20:00:28 +0000 2018,0.0,0.0,1.0,0.0
+43,The New York Times,"The death toll in the mudslides that buried parts of Montecito in muck and boulders has risen to 20, officials said https://t.co/hL9kMaAtAT",Sun Jan 14 19:47:04 +0000 2018,-0.5994,0.0,0.843,0.157
+44,The New York Times,"""I 100% support the fight for fair pay and I'm donating the $1.5M to the Time's Up Legal Defense Fund in Michelle W… https://t.co/5yYYqjR0I7",Sun Jan 14 19:31:03 +0000 2018,0.4588,0.267,0.6,0.133
+45,The New York Times,"""I'm ready for crypto assets to go down 90 percent. I'll feel better then, I think. This has been too insane."" https://t.co/YKDQpv2e7j",Sun Jan 14 19:31:02 +0000 2018,0.7269,0.283,0.717,0.0
+46,The New York Times,Your Sunday playlist has arrived https://t.co/aW6xfGiPgg,Sun Jan 14 19:13:03 +0000 2018,0.0,0.0,1.0,0.0
+47,The New York Times,"""I love working out so much that I belong to two gyms."" How 50 Cent spends his Sundays: https://t.co/VIJ18SsKIY",Sun Jan 14 19:00:21 +0000 2018,0.6369,0.198,0.802,0.0
+48,The New York Times,"Investigators said that the Las Vegas gunman used anonymous communications devices, including a prepaid cellphone,… https://t.co/nafEGnB7fi",Sun Jan 14 18:44:03 +0000 2018,0.0,0.0,1.0,0.0
+49,The New York Times,What does the false missile alert in Hawaii tell us about these government-run warning systems? That they need majo… https://t.co/FTEqVxrEm5,Sun Jan 14 18:31:05 +0000 2018,-0.0516,0.097,0.796,0.106
+50,The New York Times,"President Trump has been known to refer to Ronna McDaniel as ""my Romney"" https://t.co/zyd9R2chkl",Sun Jan 14 18:20:08 +0000 2018,0.0,0.0,1.0,0.0
+51,The New York Times,"Chelsea Manning filed to run for Senate in Maryland, according to federal election filings https://t.co/sPlt4U5MJF",Sun Jan 14 18:10:06 +0000 2018,0.0,0.0,1.0,0.0
+52,The New York Times,"David Perdue said Dick Durbin's account of President Trump's language was a ""gross misrepresentation"" https://t.co/8EoPHPzzrz",Sun Jan 14 18:00:06 +0000 2018,-0.8555,0.0,0.539,0.461
+53,The New York Times,"A former Steeler's CTE diagnosis led to a $1 billion settlement for retired players, but a technicality has left hi… https://t.co/ezbbd4vUBE",Sun Jan 14 17:45:09 +0000 2018,0.0,0.0,1.0,0.0
+54,The New York Times,"""We fully felt like we were about to die. I drove to try to get to my kids even though I knew I probably wouldn't m… https://t.co/lpp0Sehj5O",Sun Jan 14 17:30:24 +0000 2018,-0.2782,0.097,0.767,0.136
+55,The New York Times,A group in northwestern Africa that is loyal to ISIS claimed responsibility for the attack in Niger that killed 4 A… https://t.co/ckgxpfDebz,Sun Jan 14 17:15:04 +0000 2018,-0.6705,0.112,0.614,0.274
+56,The New York Times,Opinion: Is there life after liberalism? https://t.co/L4DBqnbECw,Sun Jan 14 17:00:24 +0000 2018,0.0,0.0,1.0,0.0
+57,The New York Times,"The first time cutting season came around, Nice Leng’ete and her sister ran away and hid in a tree. The second time… https://t.co/eUlj16WnT4",Sun Jan 14 16:46:04 +0000 2018,0.2263,0.113,0.769,0.117
+58,The New York Times,"""I'm running,"" Mitt Romney says privately, but as a Trump friend or foe? https://t.co/PMBo6AWzYv",Sun Jan 14 16:40:07 +0000 2018,0.1154,0.225,0.574,0.201
+59,The New York Times,President Trump accused The Wall Street Journal of purposely misquoting him. The Journal responded by posting an au… https://t.co/pcKo0BO4Fv,Sun Jan 14 16:31:03 +0000 2018,-0.296,0.0,0.891,0.109
+60,The New York Times,"""We swerved all of a sudden. The front of the plane crashed and the back was in the air. Everyone panicked."" https://t.co/XWkKBlsktK",Sun Jan 14 16:15:14 +0000 2018,0.0,0.0,1.0,0.0
+61,The New York Times,Afghan officials said that meetings were underway in Turkey between their government and representatives of the Tal… https://t.co/fjfszdHUH1,Sun Jan 14 16:00:19 +0000 2018,0.0,0.0,1.0,0.0
+62,The New York Times,"""SNL"" took aim at ""Morning Joe,"" with Bill Murray as Stephen Bannon and Fred Armisen as Michael Wolff https://t.co/B6E1qzAffx",Sun Jan 14 15:45:09 +0000 2018,0.0,0.0,1.0,0.0
+63,The New York Times,"""The risk of accidental nuclear war is not hypothetical — accidents have happened in the past, and humans will err… https://t.co/AXGCDpnjeV",Sun Jan 14 15:30:14 +0000 2018,-0.6529,0.078,0.633,0.289
+64,The New York Times,Dolphins show self-recognition earlier than children https://t.co/JhRYEGnz87,Sun Jan 14 15:15:07 +0000 2018,0.0,0.0,1.0,0.0
+65,The New York Times,"""I 100% support the fight for fair pay and I'm donating the $1.5M to the Time's Up Legal Defense Fund in Michelle W… https://t.co/uHWv6Hkrdt",Sun Jan 14 15:00:18 +0000 2018,0.4588,0.267,0.6,0.133
+66,The New York Times,"A new 3-D videomicroscope gives surgeons ""Superman eyes"" and helps them perform and teach delicate brain operations https://t.co/L8mfsQ1cO9",Sun Jan 14 14:46:02 +0000 2018,0.4215,0.202,0.798,0.0
+67,The New York Times,"Opinion: ""Hillary Clinton, the first woman who had a real shot at the presidency, has finally set off a national aw… https://t.co/m0rzwUxudL",Sun Jan 14 14:33:01 +0000 2018,0.0,0.0,1.0,0.0
+68,The New York Times,"""This system failed miserably and we need to start over,"" Senator Brian Schatz of Hawaii said https://t.co/xob5P1wRjW",Sun Jan 14 14:15:02 +0000 2018,-0.7506,0.0,0.701,0.299
+69,The New York Times,"An Iranian oil tanker that collided with another vessel in the East China Sea sank on Sunday, the Chinese Ministry… https://t.co/bJpAUGa73F",Sun Jan 14 14:00:13 +0000 2018,0.0,0.0,1.0,0.0
+70,The New York Times,"RT @nytimesworld: In 2016, this is how @Pontifex explained his prolonged absence from his homeland: “The world is bigger than Argentina.” h…",Sun Jan 14 13:49:03 +0000 2018,0.0,0.0,1.0,0.0
+71,The New York Times,"""You can't look down to read the speech, you have to take the speech up. Because if you did your neck would break.""… https://t.co/O4GoxcSM7I",Sun Jan 14 13:36:04 +0000 2018,0.0,0.0,1.0,0.0
+72,The New York Times,"Opinion: Martin Luther King Jr.’s assassination, on April 4, 1968, played a direct role in Franklin’s creation. And… https://t.co/4clKD7Kg2c",Sun Jan 14 13:15:07 +0000 2018,-0.1027,0.192,0.641,0.167
+73,The New York Times,Op-Ed Columnist: Is There Life After Liberalism? https://t.co/hJDH8Ansf8,Sun Jan 14 13:09:09 +0000 2018,0.0,0.0,1.0,0.0
+74,The New York Times,He was badly wounded during last summer’s attack on the Republican congressional baseball team. Nearly every hour b… https://t.co/Ksv6E3SmWg,Sun Jan 14 13:00:22 +0000 2018,-0.7351,0.0,0.733,0.267
+75,The New York Times,"The first time cutting season came around, Nice Leng’ete and her sister ran away and hid in a tree. The second time… https://t.co/oplchBjO54",Sun Jan 14 12:45:04 +0000 2018,0.2263,0.113,0.769,0.117
+76,The New York Times,She even stopped using her full name — Ronna Romney McDaniel — professionally after President Trump joked with her… https://t.co/i6z4geQCau,Sun Jan 14 12:30:06 +0000 2018,0.1027,0.114,0.792,0.094
+77,The New York Times,"The Trump administration is set to shrink Bears Ears by 85% next month, potentially opening more than a million acr… https://t.co/DcGoDxSCIi",Sun Jan 14 12:15:03 +0000 2018,0.0,0.0,1.0,0.0
+78,The New York Times,"In 2017, extreme weather events caused a total of $306 billion in damage in the U.S. https://t.co/dkn2lk4gE4",Sun Jan 14 12:00:10 +0000 2018,-0.4939,0.0,0.824,0.176
+79,The New York Times,For decades the E train in NYC has been one of the lines most used by homeless people to sleep because it stays und… https://t.co/27xDD6sCiU,Sun Jan 14 11:30:16 +0000 2018,0.0,0.0,1.0,0.0
+80,The New York Times,"Vows: He Works With Divas, but Didn’t Marry One https://t.co/sDt832Oiqn",Sun Jan 14 11:19:31 +0000 2018,0.0,0.0,1.0,0.0
+81,The New York Times,"A Greener, More Healthful Place to Work https://t.co/PgYRp1FOij",Sun Jan 14 11:16:13 +0000 2018,0.0,0.0,1.0,0.0
+82,The New York Times,"A gym chain is banning CNN, Fox News and MSNBC from its TVs. They say it's for your health. https://t.co/hVO96GgonB",Sun Jan 14 11:15:07 +0000 2018,0.0,0.0,1.0,0.0
+83,The New York Times,"He's being called ""frost boy."" But the image of an 8-year-old with icicles in his hair who trekked miles to school… https://t.co/YlwbptD3DI",Sun Jan 14 10:51:47 +0000 2018,0.0,0.0,1.0,0.0
+84,The New York Times,RT @nytimesbooks: 11 new books recommended by critics and editors at The New York Times https://t.co/5iUuUDcio6,Sun Jan 14 10:31:58 +0000 2018,-0.1027,0.1,0.778,0.122
+85,The New York Times,"Snow in the Sahara creates a frozen, alien landscape right here on Earth https://t.co/fDbvc4G9Df https://t.co/WEbcGeSST0",Sun Jan 14 10:15:49 +0000 2018,0.2732,0.139,0.861,0.0
+86,The New York Times,"RT @nytimesbooks: Feeling wrung out by the news? Give your kids these picture books about love, compassion and peace in tough times. https:…",Sun Jan 14 09:59:01 +0000 2018,0.8934,0.385,0.568,0.047
+87,The New York Times,"As Pope Francis Heads to Chile and Peru, Argentina Feels Snubbed, Again https://t.co/HDkLuf7F7w",Sun Jan 14 09:39:48 +0000 2018,-0.4588,0.0,0.8,0.2
+88,The New York Times,"Inside the strange, global relay race that delivers a lifesaving isotope to America's hospitals https://t.co/zD6DkjgdQF",Sun Jan 14 09:27:05 +0000 2018,-0.2023,0.0,0.878,0.122
+89,The New York Times,"‘Saturday Night Live,’ With Help From Old Friends, Skewers ‘Morning Joe’ https://t.co/MSqdQ0Eg1D",Sun Jan 14 09:07:16 +0000 2018,0.7003,0.367,0.633,0.0
+90,The New York Times,Opinion: Catherine Deneuve and the French feminist difference https://t.co/qEAUPODg1S,Sun Jan 14 08:58:03 +0000 2018,0.0,0.0,1.0,0.0
+91,The New York Times,“This may actually send a message to the fraternities that they need to do more” https://t.co/QCwQOB9b2o,Sun Jan 14 08:40:58 +0000 2018,0.0,0.0,1.0,0.0
+92,The New York Times,52 Places to Go in 2018 https://t.co/zKj7Wjz7dg,Sun Jan 14 08:23:13 +0000 2018,0.0,0.0,1.0,0.0
+93,The New York Times,"James Spader: ""I think that men should think hard and listen carefully and perhaps we’ll learn a thing or two"" https://t.co/k6FSzb0wvF",Sun Jan 14 08:05:22 +0000 2018,0.0258,0.072,0.861,0.067
+94,The New York Times,"""The person who told me said, ‘Are you sitting down?’ and I said yes, and they said, ‘We have just received a cease… https://t.co/xHEHXZhqWd",Sun Jan 14 07:47:08 +0000 2018,0.4019,0.114,0.886,0.0
+95,The New York Times,Will democracy survive President Trump? 2 new books aren’t so sure. https://t.co/d63DDBywNu,Sun Jan 14 07:29:11 +0000 2018,0.4572,0.23,0.77,0.0
+96,The New York Times,"At first glance, a $4,000 treadmill seems ridiculous. But it offers lessons for the future of gadgets. https://t.co/txT8eZBiIW",Sun Jan 14 07:11:36 +0000 2018,-0.3612,0.0,0.865,0.135
+97,The New York Times,"For 14 years, a Brooklyn bodega owner has quietly been housing homeless men in his store's basement. ""They don't ha… https://t.co/35yc3LzcFV",Sun Jan 14 06:53:13 +0000 2018,0.0,0.0,1.0,0.0
+98,The New York Times,A heart risk factor even doctors know little about https://t.co/v9HsQR1Mxn,Sun Jan 14 06:35:29 +0000 2018,-0.2732,0.0,0.792,0.208
+99,The New York Times,Many prior Winter Games locations may soon be too warm to ever host the Games again https://t.co/Zo9Iag9Kh0 https://t.co/E8PxfKEFgg,Sun Jan 14 06:17:19 +0000 2018,0.2263,0.101,0.899,0.0
