@@ -51,9 +51,7 @@ for x in range(5):
         source_account_cnn.append(tweet["user"]["name"])
         tweet_text_cnn.append(tweet["text"])
         tweet_date_cnn.append(tweet["created_at"])
-        # print(tweet)
-        # Run Vader Analysis on each tweet
-        # print(analyzer.polarity_scores(tweet["text"]))
+        
         compound = analyzer.polarity_scores(tweet["text"])["compound"]
         pos = analyzer.polarity_scores(tweet["text"])["pos"]
         neu = analyzer.polarity_scores(tweet["text"])["neu"]
@@ -76,14 +74,6 @@ cnn_df = pd.DataFrame(
     })
 
 cnn_df = cnn_df[["Source Account", "Tweet Text", "Tweet Date", "Compound Score", "Positive Score", "Neutral Score", "Negative Score"]]
-
-# Print the Averages
-#print("")
-#print("User: %s" % target_user)
-#print(f"Compound: {np.mean(compound_list)}")
-#print(f"Positive: {np.mean(positive_list)}")
-#print(f"Neutral: {np.mean(neutral_list)}")
-#print(f"Negative: {np.mean(negative_list)}")
 ```
 
 
@@ -112,9 +102,7 @@ for x in range(5):
         source_account_bbc.append(tweet["user"]["name"])
         tweet_text_bbc.append(tweet["text"])
         tweet_date_bbc.append(tweet["created_at"])
-        # print(tweet)
-        # Run Vader Analysis on each tweet
-        # print(analyzer.polarity_scores(tweet["text"]))
+
         compound = analyzer.polarity_scores(tweet["text"])["compound"]
         pos = analyzer.polarity_scores(tweet["text"])["pos"]
         neu = analyzer.polarity_scores(tweet["text"])["neu"]
@@ -165,9 +153,7 @@ for x in range(5):
         source_account_cbs.append(tweet["user"]["name"])
         tweet_text_cbs.append(tweet["text"])
         tweet_date_cbs.append(tweet["created_at"])
-        # print(tweet)
-        # Run Vader Analysis on each tweet
-        # print(analyzer.polarity_scores(tweet["text"]))
+
         compound = analyzer.polarity_scores(tweet["text"])["compound"]
         pos = analyzer.polarity_scores(tweet["text"])["pos"]
         neu = analyzer.polarity_scores(tweet["text"])["neu"]
@@ -218,9 +204,7 @@ for x in range(5):
         source_account_fox.append(tweet["user"]["name"])
         tweet_text_fox.append(tweet["text"])
         tweet_date_fox.append(tweet["created_at"])
-        # print(tweet)
-        # Run Vader Analysis on each tweet
-        # print(analyzer.polarity_scores(tweet["text"]))
+
         compound = analyzer.polarity_scores(tweet["text"])["compound"]
         pos = analyzer.polarity_scores(tweet["text"])["pos"]
         neu = analyzer.polarity_scores(tweet["text"])["neu"]
@@ -271,9 +255,7 @@ for x in range(5):
         source_account_nyt.append(tweet["user"]["name"])
         tweet_text_nyt.append(tweet["text"])
         tweet_date_nyt.append(tweet["created_at"])
-        # print(tweet)
-        # Run Vader Analysis on each tweet
-        # print(analyzer.polarity_scores(tweet["text"]))
+
         compound = analyzer.polarity_scores(tweet["text"])["compound"]
         pos = analyzer.polarity_scores(tweet["text"])["pos"]
         neu = analyzer.polarity_scores(tweet["text"])["neu"]
